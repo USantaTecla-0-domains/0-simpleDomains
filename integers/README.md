@@ -5,4 +5,5 @@ Universo Santa Tecla
 [(atrás)](../README.md)
 
 
+### [printTripleEcho](./printTripleEcho.md)
 

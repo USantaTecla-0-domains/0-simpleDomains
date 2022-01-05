@@ -7,22 +7,21 @@ Universo Santa Tecla
 ## squares
 ### [getsquareCharacteristics](./getsquareCharacteristics.md)
 
+## rectangles
+### [getRectangleCharacteristics](./getRectangleCharacteristics.md)
+
 ## circles
 ### [getCircleCharacteristics](./getCircleCharacteristics.md)
 
-## rectangles
-### [getRectangleCharacteristics](./getRectangleCharacteristics.md)
 
 ## triangles
 ### [getTriangleCharacteristics](./getTriangleCharacteristics.md)
 ### [isTriangle](./isTriangle.md)
 ### [getTypeTriangle](./getTypeTriangle.md)
 
-## quadrants
-### [getQuadrant](./getQuadrant.md)
-
 ## coordinates
-### [isDiagonal](./isDiagonal.md)
 ### [isHorizontal](./isHorizontal.md)
+### [isDiagonal](./isDiagonal.md)
+### [isNeighbour](./isNeighbour.md)
+### [getQuadrant](./getQuadrant.md)
 ### [isQueenMovement](./isQueenMovement.md)
-### [isNext](./isNext.md)
