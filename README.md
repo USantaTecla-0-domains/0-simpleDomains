@@ -1,16 +1,16 @@
 # Simple domains
 
 ## [collections](./docs/collections.md)
-## decimals
+## [decimals](./docs/decimals.md)
 
-## integers
+## [integers](./docs/integers.md)
 
-## numberingSystems
+## [numberingSystems](./docs/numberingSystems.md)
 
-## space
+## [space](./docs/space.md)
 
-## texts
+## [texts](./docs/texts.md)
 
-## time
+## [time](./docs/time.md)
 
-## units
+## [units](./docs/units.md)
