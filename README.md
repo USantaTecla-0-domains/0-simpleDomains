@@ -1,7 +1,6 @@
 # Simple domains
 
-## collections
-[requirements](./docs/collections.md)
+## [collections](./docs/collections.md)
 ## decimals
 
 ## integers
