@@ -301,17 +301,62 @@ y=110
 ~~~
 ### v1.0
 ~~~
+Dame un valor:  76
+Dame otro valor:  34
+Estos son tus valores:
+x = [76]
+y = [34]
 
+Estos son tus valores intercambiados:
+x = [34]
+y = [76]
 ~~~
 ### v1.1
 ~~~
+Dame un valor:  76
+Dame otro valor:  34
+Estos son tus valores:
+x=76
+y=34
 
+Estos son tus valores intercambiados:
+x=34
+y=76
 ~~~
 ### v1.2
 ~~~
+Dame un valor:  76
+Dame otro valor:  34
+Dame el último valor:  15
+Estos son tus valores:
+x=76
+y=34
+z=15
 
+Estos son tus valores intercambiados:
+x=34
+y=15
+z=76
+
+Estos son tus valores intercambiados:
+x=15
+y=76
+z=34
+
+Estos son tus valores intercambiados:
+x=76
+y=34
+z=15
 ~~~
 ### v1.3
 ~~~
+Dame un valor:  76
+Dame otro valor:  34
+Estos son tus valores:
+x = [76]
+y = [34]
 
+Estos son tus valores intercambiados:
+x = [34]
+y = [76]
 ~~~
