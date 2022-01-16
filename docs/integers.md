@@ -31,9 +31,10 @@ Dame el dividendo:  12
 Dame el divisor:  23
 12 / 23 = 0 y sobran 12
 ~~~
-### v0.1
+### v1
 ~~~
 Dame el divisor:  3
+0 / 3 = 0 y sobran 0 
 1 / 3 = 0 y sobran 1 
 2 / 3 = 0 y sobran 2 
 3 / 3 = 1 y sobran 0 
@@ -135,85 +136,42 @@ Dame el divisor:  3
 99 / 3 = 33 y sobran 0
 100 / 3 = 33 y sobran 1
 ~~~
+
 ## 2-changeCoins
 
-### v0.0
+### v0
 ~~~
-Dame la cantidad de céntimos:  50
-1 moneda(s) de 50
-0 moneda(s) de 20
+Dame la cantidad de céntimos:  123
+2 moneda(s) de 50
+1 moneda(s) de 20
 0 moneda(s) de 10
 0 moneda(s) de 5
-0 moneda(s) de 2
-0 moneda(s) de 1
+1 moneda(s) de 2
+1 moneda(s) de 1
 ~~~
-### v0.1
-~~~
-Dame la cantidad de céntimos:  50
-1 moneda(s) de 50
-0 moneda(s) de 20
-0 moneda(s) de 10
-0 moneda(s) de 5
-0 moneda(s) de 2
-0 moneda(s) de 1
-~~~
-### v0.2
-~~~
-Dame la cantidad de céntimos:  50
-1 moneda(s) de 50
-0 moneda(s) de 20
-0 moneda(s) de 10
-0 moneda(s) de 5
-0 moneda(s) de 2
-0 moneda(s) de 1
-~~~
-### v1.0
-~~~
-Dame la cantidad de céntimos:  50
-1 moneda(s) de 50
-~~~
-### v1.1
-~~~
-Dame la cantidad de céntimos:  50
-1 moneda(s) de 50
-~~~
-### v1.2
-~~~
-**DA ERROR**
-~~~
-## 3-even
-### v0.0
-~~~
-**EL CODIGO ESTA MAL**
 
-Escribe un número?  76
-El numero 76 es impar
+### v1
 ~~~
-### v0.1
+Dame la cantidad de céntimos:  123
+2 moneda(s) de 50
+1 moneda(s) de 20
+1 moneda(s) de 2
+1 moneda(s) de 1
 ~~~
-Escribe un número?  76
-El numero 76 es par
+
+## 3-even
+
+### v0
 ~~~
-### v0.2
+Escribe un número?  23
+El numero 23 es impar
 ~~~
-Escribe un número?  76
-El numero 76 es par
+
 ~~~
-### v0.3
+Escribe un número?  23
+El numero 23 es impar
 ~~~
-Escribe un número?  76
-El numero 76 es par.
-~~~
-### v0.4
-~~~
-Escribe un número?  76
-El numero 76 es par
-~~~
-### v0.5
-~~~
-Escribe un número?  76
-El numero 76 es par
-~~~
+
 ## 4-absoluteValue
 
 ### v0.0
