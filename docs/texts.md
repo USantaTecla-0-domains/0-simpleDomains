@@ -2,57 +2,53 @@
 
 ## echo
 
-### v0.0
+### v0
 ~~~
-**Creo que tiene que responder dos veces HOLA**
+Hay eco!!! Di algo:  me llamo Luis
+me llamo Luis!!!
+~~~
+### v1
+~~~
+Hay eco!!! Escribe algo: me llamo Lucy
+me llamo Lucy, me llamo Lucy, me llamo Lucy!!!
+me llamo Lucy, me llamo Lucy!!
+me llamo Lucy!
+~~~
 
-Di algo Hola
-Hay eco, eco!!!
-Hola!!!
-~~~
-### v0.1
-~~~
-**Creo que tiene que responder dos veces HOLA**
-
-Di algo Hola
-Hay eco, eco!!!
-Hola!!!
-~~~
-### v0.2
-~~~
-**Creo que tiene que responder dos veces HOLA**
-
-Di algo Hola
-Hay eco, eco!!!
-Hola!!!
-~~~
-### v1.0
-~~~
-**NO ENTIENDO ESA MIERDA**
-
-Hay eco, ...!!!
-'Di' algo: Hola
-NaN, NaN, NaN!!!
-NaN, NaN!!
-NaN!
-~~~
 ## meetings
-### v0.0
+
+### v0
 ~~~
-Como te llamas? Hugo
-Hola, Hugo!!! :-)
+Como te llamas? Tecla
+Hola, Tecla!!! :-)
 ~~~
-### v0.1
+
+### v1
 ~~~
-Como te llamas? Hugo
-Hola, Hugo!!! :-)
+Como te llamas? Tecla
+Hola, Tecla!!! :-)
+Adios, Tecla!!! :-)
 ~~~
-### v1.0
+
+## regards
+
+### v0
 ~~~
-Como te llamas? Hugo
-Hola, Hugo!!! :-)
-Adios, Hugo!!! :-)
+Hola, Mundo!!!
 ~~~
+
+### v1
+~~~
+Hola, Mundo!!!
+Disculpa, no me despedí!!!
+Hasta luego!!!
+~~~
+
+### v2
+~~~
+Hola, Mundo!!! Disculpa, no me despedí!!! Hasta luego!!!
+~~~
+
 ## morseTranlator
 
 ### v0.0
@@ -73,33 +69,5 @@ se traduce a:
 ### v0.2
 ~~~
 **EL CODIGO ESTA MAL**
-~~~
-## regards
-
-### v0.0
-~~~
-Hola, Mundo!!!
-~~~
-### v1.0
-~~~
-Hola, Mundo!!!
-Disculpa, no me despedí!!!
-Hasta luego!!!
-~~~
-### v1.1
-~~~
-Hola, Mundo!!!
-Disculpa, no me despedí!!!
-Hasta luego!!!
-~~~
-### v1.2
-~~~
-Hola, Mundo!!!
-Disculpa, no me despedí!!!
-Hasta luego!!!
-~~~
-### v2.0
-~~~
-Hola, Mundo!!! Disculpa, no me despedí!!! Hasta luego!!!
 ~~~
 
