@@ -1,35 +1,5 @@
 # Texts
 
-## echo
-
-### v0
-~~~
-Hay eco!!! Di algo:  me llamo Luis
-me llamo Luis!!!
-~~~
-### v1
-~~~
-Hay eco!!! Escribe algo: me llamo Lucy
-me llamo Lucy, me llamo Lucy, me llamo Lucy!!!
-me llamo Lucy, me llamo Lucy!!
-me llamo Lucy!
-~~~
-
-## meetings
-
-### v0
-~~~
-Como te llamas? Tecla
-Hola, Tecla!!! :-)
-~~~
-
-### v1
-~~~
-Como te llamas? Tecla
-Hola, Tecla!!! :-)
-Adios, Tecla!!! :-)
-~~~
-
 ## regards
 
 ### v0
@@ -47,6 +17,34 @@ Hasta luego!!!
 ### v2
 ~~~
 Hola, Mundo!!! Disculpa, no me despedí!!! Hasta luego!!!
+~~~
+
+### v3
+~~~
+Como te llamas? Tecla
+Hola, Tecla!!! :-)
+~~~
+
+### v4
+~~~
+Como te llamas? Tecla
+Hola, Tecla!!! :-)
+Adios, Tecla!!! :-)
+~~~
+
+## echo
+
+### v0
+~~~
+Hay eco!!! Di algo:  me llamo Luis
+me llamo Luis!!!
+~~~
+### v1
+~~~
+Hay eco!!! Escribe algo: me llamo Lucy
+me llamo Lucy, me llamo Lucy, me llamo Lucy!!!
+me llamo Lucy, me llamo Lucy!!
+me llamo Lucy!
 ~~~
 
 ## morseTranlator
