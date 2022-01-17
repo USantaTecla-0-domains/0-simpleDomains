@@ -187,229 +187,47 @@ El valor absoluto del número -76 es 76
 
 ## 5-prime
 
-### v0.0
+### v0
 ~~~
-Dame un numero positivo:  76
-El número 76 no es primo.
-1 si es divisor de 76    
-2 si!!! es divisor de 76 
-3 no es divisor de 76    
-4 si!!! es divisor de 76 
-5 no es divisor de 76    
-6 no es divisor de 76    
-7 no es divisor de 76    
-8 no es divisor de 76    
-9 no es divisor de 76    
-10 no es divisor de 76   
-11 no es divisor de 76
-12 no es divisor de 76
-13 no es divisor de 76
-14 no es divisor de 76
-15 no es divisor de 76
-16 no es divisor de 76
-17 no es divisor de 76
-18 no es divisor de 76
-19 si!!! es divisor de 76
-20 no es divisor de 76
-21 no es divisor de 76
-22 no es divisor de 76
-23 no es divisor de 76
-24 no es divisor de 76
-25 no es divisor de 76
-26 no es divisor de 76
-27 no es divisor de 76
-28 no es divisor de 76
-29 no es divisor de 76
-30 no es divisor de 76
-31 no es divisor de 76
-32 no es divisor de 76
-33 no es divisor de 76
-34 no es divisor de 76
-35 no es divisor de 76
-36 no es divisor de 76
-37 no es divisor de 76
-38 si!!! es divisor de 76
-39 no es divisor de 76
-40 no es divisor de 76
-41 no es divisor de 76
-42 no es divisor de 76
-43 no es divisor de 76
-44 no es divisor de 76
-45 no es divisor de 76
-46 no es divisor de 76
-47 no es divisor de 76
-48 no es divisor de 76
-49 no es divisor de 76
-50 no es divisor de 76
-51 no es divisor de 76
-52 no es divisor de 76
-53 no es divisor de 76
-54 no es divisor de 76
-55 no es divisor de 76
-56 no es divisor de 76
-57 no es divisor de 76
-58 no es divisor de 76
-59 no es divisor de 76
-60 no es divisor de 76
-61 no es divisor de 76
-62 no es divisor de 76
-63 no es divisor de 76
-64 no es divisor de 76
-65 no es divisor de 76
-66 no es divisor de 76
-67 no es divisor de 76
-68 no es divisor de 76
-69 no es divisor de 76
-70 no es divisor de 76
-71 no es divisor de 76
-72 no es divisor de 76
-73 no es divisor de 76
-74 no es divisor de 76
-75 no es divisor de 76
-76 si es divisor de 76
+Dame
 ~~~
-### v0.1
+
+### v1
 ~~~
-Dame un número:  76
-El numero 76 NO es primo
+
 ~~~
-### v0.2
+
+### v2
 ~~~
-Dame un número:  76
-El numero 76 NO es primo
+
 ~~~
-### v0.3
+
+### v3
 ~~~
-Dame un número:  76
-El numero 76 NO es primo
+Dame un número positivo:  10
+U
+PP
+PPP
+CC
+CC
+PPPPP
+CCC
+CCC
+PPPPPPP
+CCCC
+CCCC
+CCC
+CCC
+CCC
+CCCCC
+CCCCC
 ~~~
-### v0.4
-~~~
-Dame un número:  76
-El numero 76 NO es primo
-~~~
-### v1.0
-~~~
-**DA ERROR**
-~~~
-### v2.0
-~~~
-La suma de los 100 primeros primos es 24133
-~~~
-### v2.1
-~~~
-La suma de los 100 primeros primos es 24133
-~~~
-### v2.2
-~~~
-La suma de los 100 primeros primos es 24133
-~~~
-### v3.0
-~~~
-Dame un numero positivo:  76
-El número 76 no es primo.
-1 si es divisor de 76    
-2 si!!! es divisor de 76 
-3 no es divisor de 76    
-4 si!!! es divisor de 76 
-5 no es divisor de 76    
-6 no es divisor de 76    
-7 no es divisor de 76    
-8 no es divisor de 76    
-9 no es divisor de 76    
-10 no es divisor de 76   
-11 no es divisor de 76
-12 no es divisor de 76
-13 no es divisor de 76
-14 no es divisor de 76
-15 no es divisor de 76
-16 no es divisor de 76
-17 no es divisor de 76
-18 no es divisor de 76
-19 si!!! es divisor de 76
-20 no es divisor de 76
-21 no es divisor de 76
-22 no es divisor de 76
-23 no es divisor de 76
-24 no es divisor de 76
-25 no es divisor de 76
-26 no es divisor de 76
-27 no es divisor de 76
-28 no es divisor de 76
-29 no es divisor de 76
-30 no es divisor de 76
-31 no es divisor de 76
-32 no es divisor de 76
-33 no es divisor de 76
-34 no es divisor de 76
-35 no es divisor de 76
-36 no es divisor de 76
-37 no es divisor de 76
-38 si!!! es divisor de 76
-39 no es divisor de 76
-40 no es divisor de 76
-41 no es divisor de 76
-42 no es divisor de 76
-43 no es divisor de 76
-44 no es divisor de 76
-45 no es divisor de 76
-46 no es divisor de 76
-47 no es divisor de 76
-48 no es divisor de 76
-49 no es divisor de 76
-50 no es divisor de 76
-51 no es divisor de 76
-52 no es divisor de 76
-53 no es divisor de 76
-54 no es divisor de 76
-55 no es divisor de 76
-56 no es divisor de 76
-57 no es divisor de 76
-58 no es divisor de 76
-59 no es divisor de 76
-60 no es divisor de 76
-61 no es divisor de 76
-62 no es divisor de 76
-63 no es divisor de 76
-64 no es divisor de 76
-65 no es divisor de 76
-66 no es divisor de 76
-67 no es divisor de 76
-68 no es divisor de 76
-69 no es divisor de 76
-70 no es divisor de 76
-71 no es divisor de 76
-72 no es divisor de 76
-73 no es divisor de 76
-74 no es divisor de 76
-75 no es divisor de 76
-76 si es divisor de 76
-~~~
-### v4.0
-~~~
-Dame un número:  76
-El numero 76 NO es primo
-~~~
-### v5.0
-~~~
-Dame un número:  76
-El numero 76 NO es primo
-~~~
-### v5.1
-~~~
-Dame un número:  76
-El numero 76 NO es primo
-~~~
-### v5.2
-~~~
-Dame un número:  76
-El numero 76 NO es primo
-~~~
-### v5.3
-~~~
-**ESTA MAL**
-La suma en los 100 primeros primos es 1060
-~~~
+
+* Muestra para:
+    * la unidad: 'U'
+    * número primo: tantas 'P' como el número
+    * número compuesto: tantas filas como su primer divisor de tantas 'C' como el número dividivo por el divisor
+
 ## 6-perfect
 
 ### v0.0
