@@ -181,7 +181,13 @@ El número 8128 es el 4º número perfecto
 
 ### v0
 ~~~
-
+Dame un número:  220
+Dame otro número:  284
+Los números 220 y 284 si son amigos
 ~~~
 
-
+~~~
+Dame un número:  221
+Dame otro número:  283
+Los números 221 y 283 no son amigos
+~~~
