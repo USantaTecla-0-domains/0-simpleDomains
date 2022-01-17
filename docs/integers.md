@@ -174,22 +174,19 @@ El numero 23 es impar
 
 ## 4-absoluteValue
 
-### v0.0
+### v0
 ~~~
 Escribe un número?  76
 El valor absoluto del número 76 es 76
 ~~~
-### v0.1
+
 ~~~
-Escribe un número?  76
-El valor absoluto del número 76 es 76
+Escribe un número?  -76
+El valor absoluto del número -76 es 76
 ~~~
-### v0.2
-~~~
-Escribe un número?  76
-El valor absoluto del número 76 es 76
-~~~
+
 ## 5-prime
+
 ### v0.0
 ~~~
 Dame un numero positivo:  76
