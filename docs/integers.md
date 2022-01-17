@@ -191,3 +191,18 @@ Dame un número:  221
 Dame otro número:  283
 Los números 221 y 283 no son amigos
 ~~~
+
+### v1
+~~~
+Dame un número:  10000
+Los números 220 y 284 son amigos
+Los números 284 y 220 son amigos
+Los números 1184 y 1210 son amigos
+Los números 1210 y 1184 son amigos
+Los números 2620 y 2924 son amigos
+Los números 2924 y 2620 son amigos
+Los números 5020 y 5564 son amigos
+Los números 5564 y 5020 son amigos
+Los números 6232 y 6368 son amigos
+Los números 6368 y 6232 son amigos
+~~~
