@@ -129,7 +129,7 @@ La suma de los primos en los primeros 10 números es 17
 ### v2
 ~~~
 Dame un número positivo:  10
-La suma de los primos en los primeros 10 números es 129
+La suma de los primeros 10 primos es 129
 ~~~
 
 ### v3
