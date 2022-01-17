@@ -189,17 +189,30 @@ El valor absoluto del número -76 es 76
 
 ### v0
 ~~~
-Dame
+Dame un número positivo:  12
+El número 12 no es primo
+~~~
+
+~~~
+Dame un número positivo:  13 
+El número 13 si es primo
+~~~
+
+~~~
+Dame un número positivo:  1
+El número 13 no es primo
 ~~~
 
 ### v1
 ~~~
-
+Dame un número positivo:  10
+La suma de los primos en los primeros 10 números es 17
 ~~~
 
 ### v2
 ~~~
-
+Dame un número positivo:  10
+La suma de los primos en los primeros 10 números es 129
 ~~~
 
 ### v3
@@ -223,31 +236,35 @@ CCCCC
 CCCCC
 ~~~
 
-* Muestra para:
+* Muestra, desde el 1 hasta la cantidad dada, el siguiente formato:
     * la unidad: 'U'
     * número primo: tantas 'P' como el número
     * número compuesto: tantas filas como su primer divisor de tantas 'C' como el número dividivo por el divisor
 
 ## 6-perfect
 
-### v0.0
+### v0
 ~~~
-Dame un número:  76
-El numero 76 NO es perfecto
+Dame un número positivo:  25
+El número 25 no es perfecto
 ~~~
-### v0.1
+
 ~~~
-**EL CODIGO ESTA MAL**
+Dame un número positivo:  28
+El número 28 sí es perfecto
 ~~~
+
+### v1
+~~~
+Dame un número positivo:  4
+El número 8128 es el 4º número perfecto
+~~~
+
 ## 7-friends
 
-### v0.0
+### v0
 ~~~
-**EL CODIGO ESTA MAL**
+
 ~~~
-### v0.1
-~~~
-Dame un número:  76
-Dame otro número:  34
-Los números 76 y 34 NO son mumeros amigos
-~~~
+
+
