@@ -22,10 +22,12 @@ Aproximadamente has vivido:
 
 ### v0
 ~~~
-
+Qué años tienes?  3
+No eres mayor de edad
 ~~~
 
 ~~~
+
 ~~~
 
 ~~~
