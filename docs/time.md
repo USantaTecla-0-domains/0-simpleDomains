@@ -27,10 +27,13 @@ No eres mayor de edad
 ~~~
 
 ~~~
-
+Qué años tienes?  18
+Sí eres mayor de edad
 ~~~
 
 ~~~
+Qué años tienes?  53
+Sí eres mayor de edad
 ~~~
 
 ## seasonWithPart
