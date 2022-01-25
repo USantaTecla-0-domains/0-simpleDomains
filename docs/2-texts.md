@@ -1,45 +1,45 @@
-# Texts
+# 2-Texts
 
-## regards
+## 0-regards
 
-### v0
+### v0.0
 ~~~
 Hola, Mundo!!!
 ~~~
 
-### v1
+### v1.0
 ~~~
 Hola, Mundo!!!
 Disculpa, no me despedí!!!
 Hasta luego!!!
 ~~~
 
-### v2
+### v2.0
 ~~~
 Hola, Mundo!!! Disculpa, no me despedí!!! Hasta luego!!!
 ~~~
 
-### v3
+### v3.0
 ~~~
 Como te llamas? Tecla
 Hola, Tecla!!! :-)
 ~~~
 
-### v4
+### v4.0
 ~~~
 Como te llamas? Tecla
 Hola, Tecla!!! :-)
 Adios, Tecla!!! :-)
 ~~~
 
-## echo
+## 1-echo
 
-### v0
+### v0.0
 ~~~
 Hay eco!!! Di algo:  me llamo Luis
 me llamo Luis!!!
 ~~~
-### v1
+### v1.0
 ~~~
 Hay eco!!! Escribe algo: me llamo Lucy
 me llamo Lucy, me llamo Lucy, me llamo Lucy!!!
@@ -47,7 +47,7 @@ me llamo Lucy, me llamo Lucy!!
 me llamo Lucy!
 ~~~
 
-## morseTranlator
+## 2-morseTranlator
 
 ### v0.0
 ~~~
@@ -56,14 +56,7 @@ La frase:
 se traduce a:
 "--.- ..- . "
 ~~~
-### v0.1
-~~~
-Dime algo:  Otra vez?
-La frase:
-"Otra vez?"
-se traduce a:
-"- .-. .- / ...- . --.. / "
-~~~
+
 ### v0.2
 ~~~
 **EL CODIGO ESTA MAL**

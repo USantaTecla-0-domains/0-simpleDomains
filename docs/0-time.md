@@ -1,6 +1,6 @@
-# Time
+# 0-Time
 
-## units
+## 0-units
 
 ### v0
 ~~~
@@ -18,7 +18,7 @@ Aproximadamente has vivido:
         1671408000 segundos
 ~~~
 
-## major
+## 1.major
 
 ### v0
 ~~~
@@ -26,18 +26,18 @@ Qué años tienes?  3
 No eres mayor de edad
 ~~~
 
+### v2
 ~~~
+**Sale mal con 18**
 Qué años tienes?  18
-Sí eres mayor de edad
+No eres mayor de edad
 ~~~
 
-~~~
-Qué años tienes?  53
-Sí eres mayor de edad
-~~~
-
-## seasonWithPart
+## 2-sibilings
 
 ### v0
 ~~~
+Dame tu edad:  24
+El año pasado tenías 23 años
+y el año que viene tendrás 25 años
 ~~~
