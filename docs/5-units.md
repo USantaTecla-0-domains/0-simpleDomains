@@ -245,20 +245,6 @@ La coordenada (2, 2) está en el 1º cuadrante.
 **EL CODIGO ESTA MAL**
 ~~~
 
-#### v2
-~~~
-false
-false
-horizontal
-undefined
-true
-true
-false
-vertical
-1
-false
-~~~
-
 ## 3-date
 
 ### v0
