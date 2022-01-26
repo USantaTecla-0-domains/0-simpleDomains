@@ -211,4 +211,29 @@ El factorial de 12 es 479001600
 **EL CODIGO ESTA MAL**
 ~~~
 
+## 10-fibonacci
+
+### v0.0
+~~~
+Dame una posición:  2
+El término de la serie de Fibonacci de 2 es 1
+~~~
+
+### v0.1
+~~~
+**ESTA MAL EL CODIGO**
+~~~
+
+### v0.2
+~~~
+Dame una posición:  3
+El término de la serie de Fibonacci de 3 es 2
+~~~
+## 11-power
+
+### v0.0
+~~~
+Dame un exponente:  1
+La base 2 elevada al exponente 1 es 2
+~~~
 
