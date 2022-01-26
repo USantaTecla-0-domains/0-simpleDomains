@@ -14,6 +14,11 @@ Estos son tus valores intercambiados:
 x = [34]
 y = [76]
 ~~~
+
+### v0.1
+~~~
+**ESTA MAL EL CODIGO**
+~~~
 ### v1
 ~~~
 Dame un valor:  76
@@ -38,22 +43,6 @@ Estos son tus valores intercambiados:
 x=76
 y=34
 z=15
-~~~
-### v0.2
-~~~
-**ESTA MAL EL CODIGO**
-~~~
-### v1
-~~~
-Dame un valor:  76
-Dame otro valor:  34
-Estos son tus valores:
-x = [76]
-y = [34]
-
-Estos son tus valores intercambiados:
-x = [34]
-y = [76]
 ~~~
 
 ## 1-histogram
