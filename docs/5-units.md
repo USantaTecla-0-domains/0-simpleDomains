@@ -204,17 +204,17 @@ La coordinate (2,1) NO está en diagonal, en el 3 cuadrante
 La coordinate (1,1) SI está en diagonal, en el 3 cuadrante
 ~~~
 
-### v0.2
+### v2
 ~~~
 **EL CODIGO ESTA MAL**
 ~~~
 
-### v0.3
+### v3
 ~~~
 **EL CODIGO ESTA MAL**
 ~~~
 
-### v0.4
+### v4
 ~~~
 false
 false
