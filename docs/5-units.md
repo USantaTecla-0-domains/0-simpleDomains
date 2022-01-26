@@ -238,6 +238,7 @@ La coordenada (2, 2) está en el 1º cuadrante.
 #### v0.1
 ~~~
 **EL CODIGO ESTA MAL**
+~~~
 
 #### v0.3
 ~~~
