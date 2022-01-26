@@ -164,12 +164,6 @@ Dame un número positivo:  12
 El número 12 no es perfecto
 ~~~
 
-### v0
-~~~
-Dame un número positivo:  12
-El número 12 no es perfecto
-~~~
-
 ### v1
 ~~~
 Dame un número positivo:  12
@@ -181,6 +175,11 @@ El número 1 es el 12º número perfecto
 **EL CODIGO ESTA MAL**
 ~~~
 
+### v2
+~~~
+Dame un número positivo:  12
+El número 12 no es perfecto
+~~~
 
 ## 8-friends
 
