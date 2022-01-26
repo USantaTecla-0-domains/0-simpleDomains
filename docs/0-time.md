@@ -18,7 +18,7 @@ Aproximadamente has vivido:
         1671408000 segundos
 ~~~
 
-## 1.major
+## 1-major
 
 ### v0.0
 ~~~
