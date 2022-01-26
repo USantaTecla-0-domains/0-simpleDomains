@@ -245,7 +245,7 @@ La coordenada (2, 2) está en el 1º cuadrante.
 **EL CODIGO ESTA MAL**
 ~~~
 
-#### v0.4
+#### v2
 ~~~
 false
 false
