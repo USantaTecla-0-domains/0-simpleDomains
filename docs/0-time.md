@@ -1,8 +1,8 @@
-# 0-Time
+# 0-time
 
 ## 0-units
 
-### v0.0
+### v0
 ~~~
 ¿Qué años tienes?  53
 Aproximadamente has vivido:
@@ -20,7 +20,7 @@ Aproximadamente has vivido:
 
 ## 1-major
 
-### v0.0
+### v0
 ~~~
 Qué años tienes?  3
 No eres mayor de edad
@@ -35,7 +35,7 @@ No eres mayor de edad
 
 ## 2-sibilings
 
-### v0.0
+### v0
 ~~~
 Dame tu edad:  24
 El año pasado tenías 23 años

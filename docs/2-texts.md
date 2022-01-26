@@ -1,31 +1,31 @@
-# 2-Texts
+# 2-texts
 
 ## 0-regards
 
-### v0.0
+### v0
 ~~~
 Hola, Mundo!!!
 ~~~
 
-### v1.0
+### v1
 ~~~
 Hola, Mundo!!!
 Disculpa, no me despedí!!!
 Hasta luego!!!
 ~~~
 
-### v2.0
+### v2
 ~~~
 Hola, Mundo!!! Disculpa, no me despedí!!! Hasta luego!!!
 ~~~
 
-### v3.0
+### v3
 ~~~
 Como te llamas? Tecla
 Hola, Tecla!!! :-)
 ~~~
 
-### v4.0
+### v4
 ~~~
 Como te llamas? Tecla
 Hola, Tecla!!! :-)
@@ -34,12 +34,12 @@ Adios, Tecla!!! :-)
 
 ## 1-echo
 
-### v0.0
+### v0
 ~~~
 Hay eco!!! Di algo:  me llamo Luis
 me llamo Luis!!!
 ~~~
-### v1.0
+### v1
 ~~~
 Hay eco!!! Escribe algo: me llamo Lucy
 me llamo Lucy, me llamo Lucy, me llamo Lucy!!!
@@ -49,7 +49,7 @@ me llamo Lucy!
 
 ## 2-morseTranlator
 
-### v0.0
+### v0
 ~~~
 La frase:    
 "que"        

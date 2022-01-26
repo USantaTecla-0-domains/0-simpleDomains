@@ -1,8 +1,8 @@
-# 6-Collections
+# 6-collections
 
 ## 0-swap
 
-### v0.0
+### v0
 ~~~
 Dame un valor:  76
 Dame otro valor:  34
@@ -14,7 +14,7 @@ Estos son tus valores intercambiados:
 x = [34]
 y = [76]
 ~~~
-### v0.1
+### v1
 ~~~
 Dame un valor:  76
 Dame otro valor:  34
@@ -43,7 +43,7 @@ z=15
 ~~~
 **ESTA MAL EL CODIGO**
 ~~~
-### v1.0
+### v1
 ~~~
 Dame un valor:  76
 Dame otro valor:  34
@@ -55,18 +55,6 @@ Estos son tus valores intercambiados:
 x = [34]
 y = [76]
 ~~~
-### v1.1
-~~~
-Dame un valor:  76
-Dame otro valor:  34
-Estos son tus valores:
-x=76
-y=34
-
-Estos son tus valores intercambiados:
-x=34
-y=76
-~~~
 
 ## 1-histogram
 
@@ -74,12 +62,12 @@ y=76
 ~~~
 **EL CODIGO ESTA MAL**
 ~~~
-### v0.0
+### v0.1
 ~~~
 **EL CODIGO ESTA MAL**
 ~~~
 ## 2-order
-### v0.0
+### v0
 ~~~
 Valores desordenados :
 9
@@ -107,7 +95,7 @@ Valores ordenados :
 
 ## 3-matrixTranspose
 
-### v0.0
+### v0
 ~~~
 Array original: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
 Array transpuesta: 1,6,11,16,21,2,7,12,17,22,3,8,13,18,23,4,9,14,19,24,5,10,15,20,25
@@ -120,7 +108,7 @@ Array transpuesta: 1,6,11,16,21,2,7,12,17,22,3,8,13,18,23,4,9,14,19,24,5,10,15,2
 
 ## 4-permutations
 
-### v0.0
+### v0
 ~~~
 Permutación-0: a b c d e 
 Permutación-1: b a c d e  
@@ -244,7 +232,7 @@ Permutación-118: b e c d a
 Permutación-119: e b c d a
 ~~~
 
-### v0.1
+### v1
 ~~~
 Permutación-0: e  d  c  b  a  
 Permutación-1: d  e  c  b  a  
@@ -370,7 +358,7 @@ Permutación-119: a  b  c  d  e
 
 ## 5-menu
 
-### v0.0
+### v0
 ~~~
 Mayores de mayores
 Media de mayores: 0
@@ -380,27 +368,7 @@ Mayores de menores
 Media de menores: 0
 Menores de menores
 ~~~
-### v0.2
-~~~
-Mayores: 
-53
-53
-54
-45
-77
-Media: 34.714285714285715
-Menores: 
-23
-24
-34
-23
-32
-11
-3
-32
-22
-~~~
-### v0.2
+### v1
 ~~~
 Mayores: 
 53

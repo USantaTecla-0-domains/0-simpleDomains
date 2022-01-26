@@ -1,9 +1,8 @@
-# Decimals
-
+# 3-numbers
 
 ## 0-multiplicationTable
 
-### v0.0
+### v0
 ~~~
 Dame un número:  76
 76 * 1 = 76
@@ -20,21 +19,21 @@ Dame un número:  76
 
 ## 1-integerDivision
 
-### v0.0
+### v0
 ~~~
 Dame el dividendo:  20
 Dame el divisor:  5
 20 / 5 + = 4 y sobran 0
 ~~~
 
-### v1.0
+### v1
 ~~~
 **EL CODOGO ESTA MAL**
 ~~~
 
 ## 2-percentage
 
-### v0.0
+### v0
 ~~~
 Dame el tanto por ciento (sin %):  21
 21% = 21 · 1 / 100 = 21 · 0,01 = 0.21
@@ -61,7 +60,7 @@ El valor absoluto del número 76 es 76
 
 ## 5-changeCoins
 
-### v0.0
+### v0
 ~~~
 Dame la cantidad de céntimos:  123
 2 moneda(s) de 50
@@ -72,7 +71,7 @@ Dame la cantidad de céntimos:  123
 1 moneda(s) de 1
 ~~~
 
-### v1.0
+### v1
 ~~~
 Dame la cantidad de céntimos:  123
 2 moneda(s) de 50
@@ -84,19 +83,19 @@ Dame la cantidad de céntimos:  123
 
 ## 6-prime
 
-### v0.0
+### v0
 ~~~
 Dame un número positivo:  12
 El número 12 no es primo
 ~~~
 
-### v1.0
+### v1
 ~~~
 Dame un número positivo:  12
 La suma de los primos en los primeros 12 números es 28
 ~~~
 
-### v2.0
+### v2
 ~~~
 Dame un número positivo:  12
 La suma de los primeros 12 primos es 197
@@ -107,7 +106,7 @@ La suma de los primeros 12 primos es 197
 **EL CODIGO ESTA MAL**
 ~~~
 
-### v3.0
+### v3
 ~~~
 Dame un número positivo:  12
 U  
@@ -138,7 +137,7 @@ CCCCCC
 
 ## 7-perfect
 
-### v0.0
+### v0
 ~~~
 Dame un número positivo:  12
 1
@@ -150,13 +149,13 @@ Dame un número positivo:  12
 El número 12 no es perfecto
 ~~~
 
-### v0.1
+### v0
 ~~~
 Dame un número positivo:  12
 El número 12 no es perfecto
 ~~~
 
-### v1.0
+### v1
 ~~~
 Dame un número positivo:  12
 El número 1 es el 12º número perfecto
@@ -170,7 +169,7 @@ El número 1 es el 12º número perfecto
 
 ## 8-friends
 
-### v0.0
+### v0
 ~~~
 Dame un número:  220
 Dame otro número:  284
@@ -200,7 +199,7 @@ Los números 6368 y 6232 son amigos
 
 ## 9-factorial
 
-### v0.0
+### v0
 ~~~
 Dame un número (0-20):  12
 El factorial de 12 es 479001600
@@ -213,7 +212,7 @@ El factorial de 12 es 479001600
 
 ## 10-fibonacci
 
-### v0.0
+### v0
 ~~~
 Dame una posición:  2
 El término de la serie de Fibonacci de 2 es 1
@@ -223,15 +222,9 @@ El término de la serie de Fibonacci de 2 es 1
 ~~~
 **ESTA MAL EL CODIGO**
 ~~~
-
-### v0.2
-~~~
-Dame una posición:  3
-El término de la serie de Fibonacci de 3 es 2
-~~~
 ## 11-power
 
-### v0.0
+### v0
 ~~~
 Dame un exponente:  1
 La base 2 elevada al exponente 1 es 2

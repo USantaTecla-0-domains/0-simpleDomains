@@ -1,8 +1,8 @@
-# 5-Units
+# 5-units
 
 ## 0-fraction
 
-### v0.0
+### v0
 ~~~
 **EL CODIGO ESTA MAL**
 ~~~
@@ -36,7 +36,7 @@ Producto sin (2/4): (1/3)
 
 ## 1-interval
 
-### v0.0
+### v0
 ~~~
 **EL CODIGO ESTA MAL**
 ~~~
@@ -52,7 +52,7 @@ Desplazado inverso: -100,4
 ~~~
 
 ## 2-coordinate
-### v0.0
+### v0
 ~~~
 La coordinate (-2, -2) SI está en diagonal, en el 3 cuadrante
 La coordinate (-1, -1) SI está en diagonal, en el 3 cuadrante
@@ -196,7 +196,7 @@ La coordinate (1,1) SI está en diagonal.
 *********
 ~~~
 
-### v0.1
+### v1
 ~~~
 La coordinate (-2, -2) SI está en diagonal, en el 3 cuadrante
 La coordinate (-1, -1) SI está en diagonal, en el 3 cuadrante
@@ -229,7 +229,7 @@ false
 ~~~
 
 ### 1-quadrants
-####  v0.0
+####  v0
 ~~~
 Dame la abcisa, x =  2
 Dame la ordenada, y =  2
@@ -260,14 +260,14 @@ false
 
 ## 3-date
 
-### v0.0
+### v0
 ~~~
 El 20 del 3 de 1968 cae a ultimos invierno.
 ~~~
 
 ### 1-seasonWithPart
 
-### v0.0
+### v0
 ~~~
 Escriba un día (1-30):  29
 Escriba un mes (1-12):  1
