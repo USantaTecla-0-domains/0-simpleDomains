@@ -16,8 +16,9 @@ y = [76]
 ~~~
 - Restricción: las únicas sentencias console.writeln(...); que se pueden escribir son:
 ```
-console.writlen(`x = [${x}]`);
-console.writlen(`y = [${y}]`); 
+console.writeln("Estos son tus valores intercambiados:\n" + 
+  "x=" + x + "\n" +
+  "y=" + y + "\n"); 
 ```
 ### v0.1
 ~~~
@@ -50,9 +51,10 @@ z=15
 ~~~
 - Restricción: las únicas sentencias console.writeln(...); que se pueden escribir son:
 ```
-console.writlen(`x = [${x}]`);
-console.writlen(`y = [${y}]`); 
-console.writlen(`z = [${z}]`); 
+console.writeln("Estos son tus valores intercambiados:\n" + 
+  "x=" + x + "\n" +
+  "y=" + y + "\n" +
+  "z=" + z + "\n");
 ```
 ## 1-histogram
 
