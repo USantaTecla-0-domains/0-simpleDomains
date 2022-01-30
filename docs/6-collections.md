@@ -14,7 +14,9 @@ Estos son tus valores intercambiados:
 x = [34]
 y = [76]
 ~~~
-
+- Restricción: Las únicas sentencias console.writeln(...); que se pueden escribir son:
+  - console.writlen(`x = [${x}]`);
+  - console.writlen(`x = [${x}]`); 
 ### v0.1
 ~~~
 **ESTA MAL EL CODIGO**
