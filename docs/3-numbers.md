@@ -237,31 +237,21 @@ Los números 6368 y 6232 son amigos
 
 ## 9-factorial
 
-### v0
+### 9-factorial/v0
 ~~~
-Dame un número (0-20):  12
-El factorial de 12 es 479001600
+Dame un número (0-20):  0
+El factorial de 0 es 1
 ~~~
-
-### v0.1
 ~~~
-**EL CODIGO ESTA MAL**
+Dame un número (0-20):  1
+El factorial de 0 es 1
 ~~~
-
-### v0.2
 ~~~
-**EL CODIGO ESTA MAL**
+Dame un número (0-20):  5
+El factorial de 12 es 120
 ~~~
 
-### v0.3
-~~~
-**EL CODIGO ESTA MAL**
-~~~
 
-### v0.4
-~~~
-**EL CODIGO ESTA MAL**
-~~~
 ## 10-fibonacci
 
 ### v0
