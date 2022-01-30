@@ -113,6 +113,21 @@ Array transpuesta: 1,6,11,16,21,2,7,12,17,22,3,8,13,18,23,4,9,14,19,24,5,10,15,2
 Dame un valor (. para finalizar):  a
 Dame un valor (. para finalizar):  b
 Dame un valor (. para finalizar):  c
+Dame un valor (. para finalizar):  .
+Permutación-0: a b c 
+Permutación-1: b a c
+Permutación-2: c a b
+Permutación-3: a c b
+Permutación-4: b c a
+Permutación-5: c b a
+~~~
+~~~
+Dame un valor (. para finalizar):  .
+~~~
+~~~
+Dame un valor (. para finalizar):  a
+Dame un valor (. para finalizar):  b
+Dame un valor (. para finalizar):  c
 Dame un valor (. para finalizar):  d
 Dame un valor (. para finalizar):  d
 Dame un valor (. para finalizar):  .
@@ -237,9 +252,7 @@ Permutación-117: c d b d a
 Permutación-118: b d c d a
 Permutación-119: d b c d a
 ~~~
-~~~
-Dame un valor (. para finalizar):  .
-~~~
+
 ## 5-menu
 
 ### v0
