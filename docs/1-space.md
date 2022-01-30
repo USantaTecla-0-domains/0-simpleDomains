@@ -11,7 +11,7 @@ Area: 289
 
 ## 1-rectangle
 
-### v0
+### 1-rectangle/v0
 ~~~
 Dame el lado del rectangulo:  17
 Dame el lado del rectangulo:  34
