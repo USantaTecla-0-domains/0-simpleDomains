@@ -17,7 +17,7 @@ y = [76]
 - Restricción: las únicas sentencias console.writeln(...); que se pueden escribir son:
 ```
 console.writlen(`x = [${x}]`);
-console.writlen(`x = [${x}]`); 
+console.writlen(`y = [${y}]`); 
 ```
 ### v0.1
 ~~~
@@ -48,7 +48,12 @@ x=76
 y=34
 z=15
 ~~~
-
+- Restricción: las únicas sentencias console.writeln(...); que se pueden escribir son:
+```
+console.writlen(`x = [${x}]`);
+console.writlen(`y = [${y}]`); 
+console.writlen(`z = [${z}]`); 
+```
 ## 1-histogram
 
 ### v0.0
