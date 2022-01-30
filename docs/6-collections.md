@@ -253,9 +253,9 @@ Permutación-118: b d c d a
 Permutación-119: d b c d a
 ~~~
 
-## 5-series
+## 5-includes
 
-### 5-series/v0
+### 5-includes/v0
 ~~~
 Dame un valor para buscar en la serie:  13
 Dame un valor (. para finalizar):  1
