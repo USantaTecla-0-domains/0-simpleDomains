@@ -20,13 +20,11 @@ Aproximadamente has vivido:
 
 ## 1-major
 
-### v0
+### 1-major/v0
 ~~~
 Qué años tienes?  3
 No eres mayor de edad
 ~~~
-
-### v0.2
 ~~~
 Qué años tienes?  18
 Sí eres mayor de edad
