@@ -217,6 +217,11 @@ Dame una posición:  2
 El término de la serie de Fibonacci de 2 es 1
 ~~~
 
+~~~
+Dame una posición:  6
+El término de la serie de Fibonacci de 2 es 13
+~~~
+
 ### v0.1
 ~~~
 **ESTA MAL EL CODIGO**
