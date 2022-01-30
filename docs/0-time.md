@@ -41,3 +41,9 @@ Dame tu edad:  24
 El año pasado tenías 23 años
 y el año que viene tendrás 25 años
 ~~~
+
+~~~
+Dame tu edad:  0
+El año que viene tendrás 25 años
+~~~
+

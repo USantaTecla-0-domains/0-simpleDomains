@@ -41,6 +41,7 @@ Dame la cantidad:  1000
 21%  · 1000 = 210
 ~~~
 
+<<<<<<< HEAD
 ### v1
 ~~~
 **EL CODIGO ES INFINITO**
@@ -58,6 +59,8 @@ Dame la cantidad (0 para terminar):  4000
 Dame la cantidad (0 para terminar):  
 ~~~
 
+=======
+>>>>>>> 4c7d5db3cf838b59ad8be8f9d070532fe41e23bd
 ## 3-even
 
 ### v0
@@ -265,6 +268,11 @@ El factorial de 12 es 479001600
 ~~~
 Dame una posición:  2
 El término de la serie de Fibonacci de 2 es 1
+~~~
+
+~~~
+Dame una posición:  6
+El término de la serie de Fibonacci de 2 es 13
 ~~~
 
 ### v0.1
