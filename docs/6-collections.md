@@ -253,51 +253,23 @@ Permutación-118: b d c d a
 Permutación-119: d b c d a
 ~~~
 
-## 5-menu
+## 5-series
 
-### v0
+### 5-series/v0
 ~~~
-Mayores de mayores
-Media de mayores: 0
-Menores de mayores
-Media: 34.714285714285715
-Mayores de menores
-Media de menores: 0
-Menores de menores
+Dame un valor para buscar en la serie:  13
+Dame un valor (. para finalizar):  1
+Dame un valor (. para finalizar):  13
+Dame un valor (. para finalizar):  2
+Dame un valor (. para finalizar):  3
+Dame un valor (. para finalizar):  .
+En la serie sí se encuentra el valor 13
 ~~~
-### v1
 ~~~
-Mayores: 
-53
-53
-54
-45
-77
-Media: 34.714285714285715
-Menores: 
-23
-24
-34
-23
-32
-11
-3
-32
-22
-~~~
-
-## 6-pendiente-5-combinations
-
-### v0.0
-~~~
-**Repite codigo 4-permutations**
-~~~
-### v0.1
-~~~
-**ESTA MAL EL CODIGO**
-~~~
-
-### v0.2
-~~~
-**Repite codigo 4-permutations**
+Dame un valor para buscar en la serie:  13
+Dame un valor (. para finalizar):  1
+Dame un valor (. para finalizar):  2
+Dame un valor (. para finalizar):  3
+Dame un valor (. para finalizar):  .
+En la serie no se encuentra el valor 13
 ~~~
