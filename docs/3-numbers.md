@@ -192,6 +192,11 @@ Dame un número:  220
 Dame otro número:  284
 Los números 220 y 284 si son amigos
 ~~~
+~~~
+Dame un número:  221
+Dame otro número:  283
+Los números 221 y 283 si son amigos
+~~~
 
 ### 8-friends/v1
 ~~~
