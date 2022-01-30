@@ -207,19 +207,14 @@ El número 12 no es perfecto
 
 ## 8-friends
 
-### v0
+### 8-friends/v0
 ~~~
 Dame un número:  220
 Dame otro número:  284
 Los números 220 y 284 si son amigos
 ~~~
 
-### v1.0
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
-### v1.1
+### 8-friends/v1
 ~~~
 Dame un número:  10000
 Los números 220 y 284 son amigos
