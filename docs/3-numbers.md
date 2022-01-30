@@ -43,6 +43,8 @@ Dame la cantidad:  1000
 
 ### v1
 ~~~
+**EL CODIGO ES INFINITO**
+
 Dame el tanto por ciento (sin %):  21
 21% = 21 · 1 / 100 = 21 · 0,01 = 0.21
 Dame la cantidad (0 para terminar):  1000
@@ -64,6 +66,16 @@ Escribe un número?  23
 El numero 23 es impar
 ~~~
 
+
+### v0.5
+~~~
+**EL CODIGO ESTA MAL**
+~~~
+
+### v0.6
+~~~
+**EL CODIGO ESTA MAL**
+~~~
 ## 4-absoluteValue
 
 ### v0
@@ -95,6 +107,15 @@ Dame la cantidad de céntimos:  123
 1 moneda(s) de 1 
 ~~~
 
+### v2.0
+~~~
+**EL CODIGO ESTA MAL**
+~~~
+
+### v2.1
+~~~
+**EL CODIGO ESTA MAL**
+~~~
 
 ## 6-prime
 
@@ -224,6 +245,20 @@ El factorial de 12 es 479001600
 **EL CODIGO ESTA MAL**
 ~~~
 
+### v0.2
+~~~
+**EL CODIGO ESTA MAL**
+~~~
+
+### v0.3
+~~~
+**EL CODIGO ESTA MAL**
+~~~
+
+### v0.4
+~~~
+**EL CODIGO ESTA MAL**
+~~~
 ## 10-fibonacci
 
 ### v0
@@ -240,7 +275,18 @@ El término de la serie de Fibonacci de 2 es 1
 
 ### v0
 ~~~
-Dame un exponente:  1
-La base 2 elevada al exponente 1 es 2
+Dame una base:  1
+Dame un exponente:  2
+La base 1 elevada al exponente 2 es 1
+~~~
+
+### v0.3
+~~~
+**EL CODIGO ESTA MAL**
+~~~
+
+### v0.4
+~~~
+**EL CODIGO ESTA MAL**
 ~~~
 

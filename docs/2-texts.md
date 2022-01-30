@@ -51,12 +51,17 @@ me llamo Lucy!
 
 ### v0
 ~~~
-La frase:    
-"que"        
+Dime algo:  que
+La frase:"que"
+se traduce a:"--.- ..- . "
+~~~
+### v0.1
+~~~
+Dime algo:  que
+La frase:"que"
 se traduce a:
 "--.- ..- . "
 ~~~
-
 ### v0.2
 ~~~
 **EL CODIGO ESTA MAL**

@@ -12,6 +12,16 @@ Decenas: 7.6
 Centenas: 0.76
 ~~~
 
+### v0.4
+~~~
+**EL CODIGO ESTA MAL**
+~~~
+
+### v0.5
+~~~
+**EL CODIGO ESTA MAL**
+~~~
+
 ### v1.0
 ~~~
 **EL CODIGO ESTA MAL**
@@ -24,8 +34,19 @@ El número 76 tiene 2 digitos
 ~~~
 ### v2
 ~~~
+**ESTA MAL**
 Introduce un número:  76
 El número 0 no es palidromo
+~~~
+
+### v3
+~~~
+Dame un número entero:  76
+Unidades: 6
+
+Decenas: 7 
+
+Centenas: 0
 ~~~
 
 ## 1-toBinary
