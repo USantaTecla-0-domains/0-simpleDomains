@@ -22,7 +22,7 @@ Area: 578
 
 ## 2-triangle
 
-### v0
+### 2-triangle/v0
 ~~~
 Dame el 1º lado del triangulo:  24
 Dame el 2º lado del triangulo:  24
