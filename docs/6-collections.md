@@ -109,10 +109,6 @@ Array transpuesta: 1,6,11,16,21,2,7,12,17,22,3,8,13,18,23,4,9,14,19,24,5,10,15,2
 ## 4-permutations
 
 ### v0
-- Para estos datos: 
-```
-["a", "b", "c", "d", "e"]
-```
 ~~~
 Permutación-0: e  d  c  b  a  
 Permutación-1: d  e  c  b  a  
