@@ -41,26 +41,6 @@ Dame la cantidad:  1000
 21%  · 1000 = 210
 ~~~
 
-<<<<<<< HEAD
-### v1
-~~~
-**EL CODIGO ES INFINITO**
-
-Dame el tanto por ciento (sin %):  21
-21% = 21 · 1 / 100 = 21 · 0,01 = 0.21
-Dame la cantidad (0 para terminar):  1000
-21% · 1000 = 210
-Dame la cantidad (0 para terminar):  2000
-21% · 2000 = 420
-Dame la cantidad (0 para terminar):  3000
-21% · 3000 = 630
-Dame la cantidad (0 para terminar):  4000
-21% · 4000 = 840
-Dame la cantidad (0 para terminar):  
-~~~
-
-=======
->>>>>>> 4c7d5db3cf838b59ad8be8f9d070532fe41e23bd
 ## 3-even
 
 ### v0
@@ -138,11 +118,6 @@ La suma de los primos en los primeros 12 números es 28
 ~~~
 Dame un número positivo:  12
 La suma de los primeros 12 primos es 197
-~~~
-
-### v2.2
-~~~
-**EL CODIGO ESTA MAL**
 ~~~
 
 ### v3
