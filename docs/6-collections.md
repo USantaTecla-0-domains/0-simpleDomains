@@ -108,7 +108,7 @@ Array transpuesta: 1,6,11,16,21,2,7,12,17,22,3,8,13,18,23,4,9,14,19,24,5,10,15,2
 
 ## 4-permutations
 
-### v0
+### 4-permutations/v0
 ~~~
 Dame un valor (. para finalizar):  a
 Dame un valor (. para finalizar):  b
