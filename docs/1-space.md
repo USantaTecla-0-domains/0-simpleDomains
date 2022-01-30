@@ -24,10 +24,28 @@ Area: 578
 
 ### 2-triangle/v0
 ~~~
-Dame el 1º lado del triangulo:  24
-Dame el 2º lado del triangulo:  24
-Dame el 3º lado del triangulo:  24
-Los lados 24, 24 y 24  forman un triangulo de tipo equilateralo
+Dame el 1º lado del triangulo:  6
+Dame el 2º lado del triangulo:  6
+Dame el 3º lado del triangulo:  6
+Los lados 6, 6 y 6  forman un triangulo de tipo equilateralo
+~~~
+~~~
+Dame el 1º lado del triangulo:  6
+Dame el 2º lado del triangulo:  6
+Dame el 3º lado del triangulo:  5
+Los lados 6, 6 y 5 forman un triangulo de tipo isosceles
+~~~
+~~~
+Dame el 1º lado del triangulo:  6
+Dame el 2º lado del triangulo:  5
+Dame el 3º lado del triangulo:  4
+Los lados 6, 5 y 4 forman un triangulo de tipo escaleno
+~~~
+~~~
+Dame el 1º lado del triangulo:  6
+Dame el 2º lado del triangulo:  5
+Dame el 3º lado del triangulo:  1
+Los lados 6, 5 y 1 NO forman un triangulo
 ~~~
 ### v0.5
 ~~~
