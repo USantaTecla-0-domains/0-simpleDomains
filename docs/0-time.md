@@ -28,9 +28,8 @@ No eres mayor de edad
 
 ### v0.2
 ~~~
-**Sale mal con 18**
 Qué años tienes?  18
-No eres mayor de edad
+Sí eres mayor de edad
 ~~~
 
 ## 2-sibilings
