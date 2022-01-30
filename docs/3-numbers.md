@@ -107,6 +107,10 @@ Dame la cantidad de céntimos:  123
 Dame un número positivo:  12
 El número 12 no es primo
 ~~~
+~~~
+Dame un número positivo:  13
+El número 12 sí es primo
+~~~
 
 ### v1
 ~~~
