@@ -43,8 +43,4 @@ Dame tu edad:  1
 El año que viene tendrás 25 años
 ~~~
 
-~~~
-Dame tu edad:  0
-El año que viene tendrás 25 años
-~~~
 
