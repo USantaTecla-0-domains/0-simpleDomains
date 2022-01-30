@@ -2,7 +2,7 @@
 
 ## 0-square
 
-### v0
+### 0-square/v0
 ~~~
 Dame el lado del cuadrado:  17
 Perímetro: 68
