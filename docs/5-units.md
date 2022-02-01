@@ -2,17 +2,7 @@
 
 ## 0-fraction
 
-### v0
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
-### v0.1
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
-### v0.2
+### 0-fraction/v0
 ~~~
 Dame el numerador:  2
 Dame el denominador:  3
@@ -36,12 +26,7 @@ Producto sin (2/4): (1/3)
 
 ## 1-interval
 
-### v0
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
-### v0.1
+### 1-interval/v0
 ~~~
 Longitud: 104
 Punto medio: 52
@@ -52,7 +37,8 @@ Desplazado inverso: -100,4
 ~~~
 
 ## 2-coordinate
-### v0
+
+### 2-coordinate/v0
 ~~~
 La coordinate (-2, -2) SI está en diagonal, en el 3 cuadrante
 La coordinate (-1, -1) SI está en diagonal, en el 3 cuadrante
@@ -196,7 +182,7 @@ La coordinate (1,1) SI está en diagonal.
 *********
 ~~~
 
-### v1
+### 2-coordinate/v1
 ~~~
 La coordinate (-2, -2) SI está en diagonal, en el 3 cuadrante
 La coordinate (-1, -1) SI está en diagonal, en el 3 cuadrante
@@ -204,57 +190,27 @@ La coordinate (2,1) NO está en diagonal, en el 3 cuadrante
 La coordinate (1,1) SI está en diagonal, en el 3 cuadrante
 ~~~
 
-### v2
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
-### v3
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
-### v4
-~~~
-false
-false
-horizontal
-undefined
-true
-true
-false
-vertical
-1
-false
-~~~
 
 ### 1-quadrants
-####  v0
+
+####  1-quadrants/v0
 ~~~
 Dame la abcisa, x =  2
 Dame la ordenada, y =  2
 La coordenada (2, 2) está en el 1º cuadrante.
 ~~~
-#### v0.1
-~~~
-**EL CODIGO ESTA MAL**
-~~~
 
-#### v0.3
-~~~
-**EL CODIGO ESTA MAL**
-~~~
 
 ## 3-date
 
-### v0
+### 3-date/v0
 ~~~
 El 20 del 3 de 1968 cae a ultimos invierno.
 ~~~
 
 ### 1-seasonWithPart
 
-### v0
+### 1-seasonWithPart/v0
 ~~~
 Escriba un día (1-30):  29
 Escriba un mes (1-12):  1
@@ -262,19 +218,5 @@ Escriba un año (1-...):  2022
 El día 29 del 1 de 2022 cae a mediados de invierno.
 ~~~
 
-### v0.1
-~~~
-**ESTA MAL EL CODIGO**
-~~~
-
-### v0.2
-~~~
-**ESTA MAL EL CODIGO**
-~~~
-
-### v0.4
-~~~
-**ESTA MAL EL CODIGO**
-~~~
 
 
