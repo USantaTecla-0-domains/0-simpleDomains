@@ -2,7 +2,7 @@
 
 ## 0-swap
 
-### v0
+### 0-swap/v0
 ~~~
 Dame un valor:  76
 Dame otro valor:  34
@@ -20,11 +20,8 @@ console.writeln("Estos son tus valores intercambiados:\n" +
   "x=" + x + "\n" +
   "y=" + y + "\n"); 
 ```
-### v0.1
-~~~
-**ESTA MAL EL CODIGO**
-~~~
-### v1
+
+### 0-swap/v1
 ~~~
 Dame un valor:  76
 Dame otro valor:  34
@@ -58,16 +55,13 @@ console.writeln("Estos son tus valores intercambiados:\n" +
 ```
 ## 1-histogram
 
-### v0.0
+### 1-histogram/v0
 ~~~
-**EL CODIGO ESTA MAL**
 ~~~
-### v0.1
-~~~
-**EL CODIGO ESTA MAL**
-~~~
+
 ## 2-order
-### v0
+
+### 2-order/v0
 ~~~
 Valores desordenados :
 9
@@ -95,16 +89,11 @@ Valores ordenados :
 
 ## 3-matrixTranspose
 
-### v0
+### 3-matrixTranspose/v0
 ~~~
 Array original: 1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25
 Array transpuesta: 1,6,11,16,21,2,7,12,17,22,3,8,13,18,23,4,9,14,19,24,5,10,15,20,25
 ~~~
-### v0.1
-~~~
-**ESTA MAL ES CODIGO**
-~~~
-
 
 ## 4-permutations
 
