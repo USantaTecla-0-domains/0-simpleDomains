@@ -2,62 +2,44 @@
 
 ## 0-digits
 
-### v0
+### 0-digits/v0
 ~~~
 Dame un número entero 76
 Unidades: 6
-
 Decenas: 7.6
-
 Centenas: 0.76
 ~~~
 
-### v0.4
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
-### v0.5
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
-### v1.0
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
-### v1.1
+### 0-digits/v1
 ~~~
 Dame un número entero 76
 El número 76 tiene 2 digitos
 ~~~
-### v2
+
+### 0-digits/v2
 ~~~
 **ESTA MAL**
 Introduce un número:  76
 El número 0 no es palidromo
 ~~~
 
-### v3
+### 0-digits/v3
 ~~~
 Dame un número entero:  76
 Unidades: 6
-
 Decenas: 7 
-
 Centenas: 0
 ~~~
 
 ## 1-toBinary
 
-### v0
+### toBinary/v0
 ~~~
 Dame un número decimal:  6
 Formato binario:  0000 0000 0000 0000 0000 0000 0000 0110
 ~~~
 
-### v1
+### toBinary/v1
 ~~~
 Dame un número decimal:  6
 Formato binario de 6:  0000 0000 0000 0000 0000 0000 0000 0110
@@ -80,7 +62,7 @@ Formato binario de 6 >>> 5 (0):  0000 0000 0000 0000 0000 0000 0000 0000
 
 ## 2-abacus
 
-### v0
+### 2-abacus/v0
 ~~~
 [
   '', '', '', '', '',
@@ -136,14 +118,14 @@ Formato binario de 6 >>> 5 (0):  0000 0000 0000 0000 0000 0000 0000 0000
 
 ## 3-binaryToDecimal
 
-### v0
+### 3-binaryToDecimal/v0
 ~~~
 El número 1000 binario corresponde con el número 8 decimal
 ~~~
 
 ## 4-decimalToBinary
 
-### v0
+### 4-decimalToBinary/v0
 ~~~
 Dame un numero?  76
 00000000000000000000000001001100
@@ -151,11 +133,7 @@ Dame un numero?  76
 
 ## 5-romanNumerals
 
-### v0.0
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-### v1
+### 5-romanNumerals/v0
 ~~~
 101 en romano: CI
 45 en romano: XLV
