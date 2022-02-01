@@ -49,7 +49,7 @@ me llamo Lucy!
 
 ## 2-morseTranlator
 
-### 1-echo/v0
+### 2-morseTranlator/v0
 ~~~
 Dime algo:  que
 La frase:"que"
