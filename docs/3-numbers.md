@@ -2,7 +2,7 @@
 
 ## 0-multiplicationTable
 
-### v0
+### 0-multiplicationTable/v0
 ~~~
 Dame un número:  76
 76 * 1 = 76
@@ -19,21 +19,16 @@ Dame un número:  76
 
 ## 1-integerDivision
 
-### v0
+### 1-integerDivision/v0
 ~~~
 Dame el dividendo:  20
 Dame el divisor:  5
 20 / 5 + = 4 y sobran 0
 ~~~
 
-### v1
-~~~
-**EL CODOGO ESTA MAL**
-~~~
-
 ## 2-percentage
 
-### v0
+### 2-percentage/v0
 ~~~
 Dame el tanto por ciento (sin %):  21
 21% = 21 · 1 / 100 = 21 · 0,01 = 0.21
@@ -43,25 +38,15 @@ Dame la cantidad:  1000
 
 ## 3-even
 
-### v0
+### 3-even/v0
 ~~~
 Escribe un número?  23
 El numero 23 es impar
 ~~~
 
-
-### v0.5
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
-### v0.6
-~~~
-**EL CODIGO ESTA MAL**
-~~~
 ## 4-absoluteValue
 
-### v0
+### 4-absoluteValue/v0
 ~~~
 Escribe un número?  76
 El valor absoluto del número 76 es 76
@@ -70,7 +55,7 @@ El valor absoluto del número 76 es 76
 
 ## 5-changeCoins
 
-### v0
+### 5-changeCoins/v0
 ~~~
 Dame la cantidad de céntimos:  123
 2 moneda(s) de 50
@@ -81,7 +66,7 @@ Dame la cantidad de céntimos:  123
 1 moneda(s) de 1
 ~~~
 
-### v1
+### 5-changeCoins/v1
 ~~~
 Dame la cantidad de céntimos:  123
 2 moneda(s) de 50
@@ -90,19 +75,9 @@ Dame la cantidad de céntimos:  123
 1 moneda(s) de 1 
 ~~~
 
-### v2.0
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
-### v2.1
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
 ## 6-prime
 
-### v0
+### 6-prime/v0
 ~~~
 Dame un número positivo:  12
 El número 12 no es primo
@@ -112,19 +87,19 @@ Dame un número positivo:  13
 El número 12 sí es primo
 ~~~
 
-### v1
+### 6-prime/v1
 ~~~
 Dame un número positivo:  12
 La suma de los primos en los primeros 12 números es 28
 ~~~
 
-### v2
+### 6-prime/v2
 ~~~
 Dame un número positivo:  12
 La suma de los primeros 12 primos es 197
 ~~~
 
-### v3
+### 6-prime/v3
 ~~~
 Dame un número positivo:  12
 U  
@@ -155,7 +130,7 @@ CCCCCC
 
 ## 7-perfect
 
-### v0
+### 7-perfect/v0
 ~~~
 Dame un número positivo:  12
 1
@@ -167,18 +142,13 @@ Dame un número positivo:  12
 El número 12 no es perfecto
 ~~~
 
-### v1
+### 7-perfect/v1
 ~~~
 Dame un número positivo:  12
 El número 1 es el 12º número perfecto
 ~~~
 
-### v1.1
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
-### v2
+### 7-perfect/v2
 ~~~
 Dame un número positivo:  12
 El número 12 no es perfecto
@@ -233,37 +203,23 @@ El factorial de 12 es 120
 
 ## 10-fibonacci
 
-### v0
+### 10-fibonacci/v0
 ~~~
 Dame una posición:  2
 El término de la serie de Fibonacci de 2 es 1
 ~~~
-
 ~~~
 Dame una posición:  6
 El término de la serie de Fibonacci de 2 es 13
 ~~~
 
-### v0.1
-~~~
-**ESTA MAL EL CODIGO**
-~~~
+
 ## 11-power
 
-### v0
+### 11-power/v0
 ~~~
 Dame una base:  1
 Dame un exponente:  2
 La base 1 elevada al exponente 2 es 1
-~~~
-
-### v0.3
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
-### v0.4
-~~~
-**EL CODIGO ESTA MAL**
 ~~~
 
