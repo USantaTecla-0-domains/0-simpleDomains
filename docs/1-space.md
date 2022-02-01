@@ -47,15 +47,10 @@ Dame el 2º lado del triangulo:  5
 Dame el 3º lado del triangulo:  1
 Los lados 6, 5 y 1 NO forman un triangulo
 ~~~
-### v0.5
-~~~
-**EL CODIGO ESTA MAL**
-~~~
-
 
 ## 3-circle 
 
-### v0
+### 3-circle/v0
 ~~~
 Dame el radio del círculo:  20
 Perímetro: 125.66368
