@@ -265,6 +265,8 @@ En la serie no se encuentra el valor 13
 
 ## 6-timetable
 
+### 6-timetable/v0
+
 - Modela con un lenguaje de datos:
 
 ![](./images/timetable.jpg)
