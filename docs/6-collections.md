@@ -267,4 +267,4 @@ En la serie no se encuentra el valor 13
 
 - Modela con un lenguaje de datos:
 - 
-![](./docs/images/timetable)
+![](./images/timetable.jpg[s](url))
