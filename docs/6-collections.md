@@ -270,3 +270,17 @@ En la serie no se encuentra el valor 13
 - Modela con un lenguaje de datos:
 
 ![](./images/timetable.jpg)
+
+## 7-familyTree
+
+### 7-familyTree/v0
+
+- Modela con un lenguaje de datos los ancestros de tu árbol genealógico familiar:
+
+![](./images/familyTree.v0.jpg)
+
+### 7-familyTree/v1
+
+- Modela con un lenguaje de datos tu árbol genealógico familiar:
+
+![](./images/familyTree.v1.jpg)

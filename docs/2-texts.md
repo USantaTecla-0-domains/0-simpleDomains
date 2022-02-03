@@ -56,5 +56,10 @@ La frase:"que"
 se traduce a:"--.- ..- . "
 ~~~
 
+## 3-curriculum
 
+### 3-curriculum/v0
 
+- Modela con un lenguaje de datos:
+
+![](./images/curriculum.png)
