@@ -262,3 +262,9 @@ Dame un valor (. para finalizar):  3
 Dame un valor (. para finalizar):  .
 En la serie no se encuentra el valor 13
 ~~~
+
+## 6-timetable
+
+- Modela con un lenguaje de datos:
+- 
+![](./docs/images/timetable)
