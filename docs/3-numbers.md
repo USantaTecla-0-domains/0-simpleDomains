@@ -186,16 +186,6 @@ Los números 6368 y 6232 son amigos
 Dame un número (0-20):  0
 El factorial de 0 es 1
 ~~~
-~~~
-Dame un número (0-20):  1
-El factorial de 0 es 1
-~~~
-~~~
-Dame un número (0-20):  5
-El factorial de 12 es 120
-~~~
-
-
 ## 10-fibonacci
 
 ### 10-fibonacci/v0
