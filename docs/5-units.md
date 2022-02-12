@@ -190,6 +190,28 @@ La coordinate (2,1) NO está en diagonal, en el 3 cuadrante
 La coordinate (1,1) SI está en diagonal, en el 3 cuadrante
 ~~~
 
+### 2-coordinate/v2
+~~~
+***ESTA MAL***
+~~~
+
+### 2-coordinate/v3
+~~~
+***ESTA MAL***
+~~~
+### 2-coordinate/v4
+~~~
+false
+false     
+horizontal
+
+true      
+true      
+false     
+vertical  
+1
+false 
+~~~
 
 ### 1-quadrants
 

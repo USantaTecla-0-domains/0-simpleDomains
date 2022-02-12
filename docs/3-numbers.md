@@ -26,6 +26,11 @@ Dame el divisor:  5
 20 / 5 + = 4 y sobran 0
 ~~~
 
+### 1-integerDivision/v1
+~~~
+**ESTA MAL*
+~~~
+
 ## 2-percentage
 
 ### 2-percentage/v0
@@ -34,6 +39,11 @@ Dame el tanto por ciento (sin %):  21
 21% = 21 · 1 / 100 = 21 · 0,01 = 0.21
 Dame la cantidad:  1000
 21%  · 1000 = 210
+~~~
+
+### 2-percentage/v1
+~~~
+***NO TIENE FIN***
 ~~~
 
 ## 3-even
@@ -73,6 +83,12 @@ Dame la cantidad de céntimos:  123
 1 moneda(s) de 20
 1 moneda(s) de 2 
 1 moneda(s) de 1 
+~~~
+
+
+### 5-changeCoins/v2 y 2.1
+~~~
+***ESTA MAL***
 ~~~
 
 ## 6-prime
