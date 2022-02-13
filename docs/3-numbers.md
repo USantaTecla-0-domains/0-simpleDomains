@@ -85,12 +85,6 @@ Dame la cantidad de céntimos:  123
 1 moneda(s) de 1 
 ~~~
 
-
-### 5-changeCoins/v2 y 2.1
-~~~
-***ESTA MAL***
-~~~
-
 ## 6-prime
 
 ### 6-prime/v0
