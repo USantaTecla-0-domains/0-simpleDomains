@@ -95,6 +95,12 @@ Damen un número inferior a 16 en binario:  1101
 El número 1101 binario corresponde con el número 13 decimal
 ~~~
 
+### 3-binaryToDecimal/v1
+~~~
+Damen un número en binario:  1101
+El número 1101 binario corresponde con el número 13 decimal
+~~~
+
 ## 4-decimalToBinary
 
 ### 4-decimalToBinary/v0
