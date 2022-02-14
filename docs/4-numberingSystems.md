@@ -31,35 +31,6 @@ Decenas: 7
 Centenas: 0
 ~~~
 
-## 1-toBinary
-
-### toBinary/v0
-~~~
-Dame un número decimal:  6
-Formato binario:  0000 0000 0000 0000 0000 0000 0000 0110
-~~~
-
-### toBinary/v1
-~~~
-Dame un número decimal:  6
-Formato binario de 6:  0000 0000 0000 0000 0000 0000 0000 0110
-Formato binario de 6 << 1 (12):  0000 0000 0000 0000 0000 0000 0000 1100 
-Formato binario de 6 << 2 (24):  0000 0000 0000 0000 0000 0000 0001 1000 
-Formato binario de 6 << 3 (48):  0000 0000 0000 0000 0000 0000 0011 0000 
-Formato binario de 6 << 4 (96):  0000 0000 0000 0000 0000 0000 0110 0000 
-Formato binario de 6 << 5 (192):  0000 0000 0000 0000 0000 0000 1100 0000
-Formato binario de 6 >> 1 (3):  0000 0000 0000 0000 0000 0000 0000 0011  
-Formato binario de 6 >> 2 (1):  0000 0000 0000 0000 0000 0000 0000 0001  
-Formato binario de 6 >> 3 (0):  0000 0000 0000 0000 0000 0000 0000 0000  
-Formato binario de 6 >> 4 (0):  0000 0000 0000 0000 0000 0000 0000 0000  
-Formato binario de 6 >> 5 (0):  0000 0000 0000 0000 0000 0000 0000 0000  
-Formato binario de 6 >>> 1 (3):  0000 0000 0000 0000 0000 0000 0000 0011 
-Formato binario de 6 >>> 2 (1):  0000 0000 0000 0000 0000 0000 0000 0001
-Formato binario de 6 >>> 3 (0):  0000 0000 0000 0000 0000 0000 0000 0000
-Formato binario de 6 >>> 4 (0):  0000 0000 0000 0000 0000 0000 0000 0000
-Formato binario de 6 >>> 5 (0):  0000 0000 0000 0000 0000 0000 0000 0000
-~~~
-
 ## 2-abacus
 
 ### 2-abacus/v0
@@ -120,15 +91,43 @@ Formato binario de 6 >>> 5 (0):  0000 0000 0000 0000 0000 0000 0000 0000
 
 ### 3-binaryToDecimal/v0
 ~~~
-El número 1000 binario corresponde con el número 8 decimal
+Dame un número inferior a 16:  13
+Bits: 1011
+~~~
+
+### 3-binaryToDecimal/v1
+~~~
+Dame un número decimal:  13
+Formato binario:  0000 0000 0000 0000 0000 0000 0000 1101
+~~~
+
+### 3-binaryToDecimal/v2
+~~~
+Dame un número decimal:  13
+Formato binario de 13:  0000 0000 0000 0000 0000 0000 0000 1101
+Formato binario de 13 << 1 (26):  0000 0000 0000 0000 0000 0000 0001 1010 
+Formato binario de 13 << 2 (52):  0000 0000 0000 0000 0000 0000 0011 0100 
+Formato binario de 13 << 3 (104):  0000 0000 0000 0000 0000 0000 0110 1000
+Formato binario de 13 << 4 (208):  0000 0000 0000 0000 0000 0000 1101 0000
+Formato binario de 13 << 5 (416):  0000 0000 0000 0000 0000 0001 1010 0000
+Formato binario de 13 >> 1 (6):  0000 0000 0000 0000 0000 0000 0000 0110
+Formato binario de 13 >> 2 (3):  0000 0000 0000 0000 0000 0000 0000 0011
+Formato binario de 13 >> 3 (1):  0000 0000 0000 0000 0000 0000 0000 0001
+Formato binario de 13 >> 4 (0):  0000 0000 0000 0000 0000 0000 0000 0000
+Formato binario de 13 >> 5 (0):  0000 0000 0000 0000 0000 0000 0000 0000
+Formato binario de 13 >>> 1 (6):  0000 0000 0000 0000 0000 0000 0000 0110
+Formato binario de 13 >>> 2 (3):  0000 0000 0000 0000 0000 0000 0000 0011
+Formato binario de 13 >>> 3 (1):  0000 0000 0000 0000 0000 0000 0000 0001
+Formato binario de 13 >>> 4 (0):  0000 0000 0000 0000 0000 0000 0000 0000
+Formato binario de 13 >>> 5 (0):  0000 0000 0000 0000 0000 0000 0000 0000
 ~~~
 
 ## 4-decimalToBinary
 
 ### 4-decimalToBinary/v0
 ~~~
-Dame un numero?  76
-00000000000000000000000001001100
+Dame un número inferior a 16:  13
+Bits: 1011
 ~~~
 
 ## 5-romanNumerals
