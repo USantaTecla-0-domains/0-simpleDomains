@@ -89,19 +89,23 @@ Centenas: 0
 
 ## 3-binaryToDecimal
 
-### 3-binaryToDecimal/v0
+
+
+## 4-decimalToBinary
+
+### 3-decimalToBinary/v0
 ~~~
 Dame un número inferior a 16:  13
 Bits: 1011
 ~~~
 
-### 3-binaryToDecimal/v1
+### 3-decimalToBinary/v1
 ~~~
 Dame un número decimal:  13
 Formato binario:  0000 0000 0000 0000 0000 0000 0000 1101
 ~~~
 
-### 3-binaryToDecimal/v2
+### 3-decimalToBinary/v2
 ~~~
 Dame un número decimal:  13
 Formato binario de 13:  0000 0000 0000 0000 0000 0000 0000 1101
@@ -120,14 +124,6 @@ Formato binario de 13 >>> 2 (3):  0000 0000 0000 0000 0000 0000 0000 0011
 Formato binario de 13 >>> 3 (1):  0000 0000 0000 0000 0000 0000 0000 0001
 Formato binario de 13 >>> 4 (0):  0000 0000 0000 0000 0000 0000 0000 0000
 Formato binario de 13 >>> 5 (0):  0000 0000 0000 0000 0000 0000 0000 0000
-~~~
-
-## 4-decimalToBinary
-
-### 4-decimalToBinary/v0
-~~~
-Dame un número inferior a 16:  13
-Bits: 1011
 ~~~
 
 ## 5-romanNumerals
