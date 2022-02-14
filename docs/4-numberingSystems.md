@@ -89,23 +89,27 @@ Centenas: 0
 
 ## 3-binaryToDecimal
 
-
+### 3-binaryToDecimal/v0
+~~~
+Damen un número inferior a 16 en binario:  1101
+El número 1101 binario corresponde con el número 13 decimal
+~~~
 
 ## 4-decimalToBinary
 
-### 3-decimalToBinary/v0
+### 4-decimalToBinary/v0
 ~~~
 Dame un número inferior a 16:  13
 Bits: 1011
 ~~~
 
-### 3-decimalToBinary/v1
+### 4-decimalToBinary/v1
 ~~~
 Dame un número decimal:  13
 Formato binario:  0000 0000 0000 0000 0000 0000 0000 1101
 ~~~
 
-### 3-decimalToBinary/v2
+### 4-decimalToBinary/v2
 ~~~
 Dame un número decimal:  13
 Formato binario de 13:  0000 0000 0000 0000 0000 0000 0000 1101
