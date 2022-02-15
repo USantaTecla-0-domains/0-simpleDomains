@@ -271,6 +271,13 @@ En la serie no se encuentra el valor 13
 
 ![](./images/timetable.jpg)
 
+### 6-table/v1
+
+![](./images/tableHtml.jpg)
+
+### 6-table/v2
+
+![](./images/tableCss.jpg)
 ## 7-familyTree
 
 ### 7-familyTree/v0
