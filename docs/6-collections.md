@@ -273,11 +273,11 @@ En la serie no se encuentra el valor 13
 
 ### 6-table/v1
 
-![](./images/tableHtml.jpg)
+![](./images/tableHtml.png)
 
 ### 6-table/v2
 
-![](./images/tableCss.jpg)
+![](./images/tableCss.png)
 ## 7-familyTree
 
 ### 7-familyTree/v0
