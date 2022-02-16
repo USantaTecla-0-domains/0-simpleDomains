@@ -4,10 +4,10 @@
 
 ### 0-digits/v0
 ~~~
-Dame un número entero 76
-Unidades: 6
-Decenas: 7.6
-Centenas: 0.76
+Dame un número entero:  65
+Unidades: 5
+Decenas: 6
+Centenas: 0
 ~~~
 
 ### 0-digits/v1
