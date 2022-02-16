@@ -62,6 +62,17 @@ Introduce 3 palabras separadas por varios espacios:  Universo   Santa   Tecla
 .Universo Santa Tecla.
 ~~~
 
+### 4-validation
+~~~
+¿Qué piensas?:  nada
+Ahora ya sé que piensas "nada"
+~~~
+
+### 5-vowels
+~~~
+¿Dame un mensaje terminado en "."?:  Vale.
+Tu mensaje "Vale." tiene 4 caracteres significativos, sin contar el punto final!
+~~~
 ## 3-curriculum
 
 ### 3-curriculum/v0
