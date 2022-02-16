@@ -105,8 +105,8 @@ El número 1101 binario corresponde con el número 13 decimal
 
 ### 4-decimalToBinary/v0
 ~~~
-Dame un número inferior a 16:  13
-Bits: 1011
+Dame un número inferior a 16:  8
+Bits: 0001
 ~~~
 
 ### 4-decimalToBinary/v1
