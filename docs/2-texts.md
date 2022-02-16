@@ -56,6 +56,12 @@ La frase:"que"
 se traduce a:"--.- ..- . "
 ~~~
 
+### 3-initials
+~~~
+Introduce 3 palabras separadas por varios espacios:  Universo   Santa   Tecla  
+.Universo Santa Tecla.
+~~~
+
 ## 3-curriculum
 
 ### 3-curriculum/v0
