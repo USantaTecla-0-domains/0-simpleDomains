@@ -23,7 +23,7 @@ Dame un número:  76
 ~~~
 Dame el dividendo:  20
 Dame el divisor:  5
-20 / 5 + = 4 y sobran 0
+20 / 5 = 4 y sobran 0
 ~~~
 
 ### 1-integerDivision/v1
