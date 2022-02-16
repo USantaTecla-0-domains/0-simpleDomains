@@ -23,14 +23,6 @@ Introduce un número:  76
 El número 0 no es palidromo
 ~~~
 
-### 0-digits/v3
-~~~
-Dame un número entero:  76
-Unidades: 6
-Decenas: 7 
-Centenas: 0
-~~~
-
 ## 2-abacus
 
 ### 2-abacus/v0
