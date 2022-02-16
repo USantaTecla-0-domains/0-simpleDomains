@@ -40,3 +40,13 @@ El año pasado tenías 32 años
 y el año que viene tendrás 34 años
 ~~~
 
+### 3-sumTimes/v0.0
+
+~~~
+Dime la hora actual [0-23]:  15
+Dime los minutos actuales [0-59]:  05
+Dime cuantas horas necesitas [0-23]:  8
+Dime los minutos necesitas [0-59]:  
+10
+Serán las 23:15
+~~~
