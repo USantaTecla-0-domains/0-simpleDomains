@@ -56,19 +56,19 @@ La frase:"que"
 se traduce a:"--.- ..- . "
 ~~~
 
-### 3-initials
+### 3-initials/v.0
 ~~~
 Introduce 3 palabras separadas por varios espacios:  Universo   Santa   Tecla  
 .Universo Santa Tecla.
 ~~~
 
-### 4-validation
+### 4-validation/v.0
 ~~~
 ¿Qué piensas?:  nada
 Ahora ya sé que piensas "nada"
 ~~~
 
-### 5-vowels
+### 5-vowels/v.0
 ~~~
 ¿Dame un mensaje terminado en "."?:  Vale.
 Tu mensaje "Vale." tiene 4 caracteres significativos, sin contar el punto final!
