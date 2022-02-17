@@ -268,7 +268,7 @@ En la serie no se encuentra el valor 13
 ### v.1
 ![](./images/tablaColores.png)
 
-### v.2
+### v.2.0
 ![](./images/v0.png)
 
 ### v.2.1

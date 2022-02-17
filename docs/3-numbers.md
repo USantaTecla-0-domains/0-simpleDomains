@@ -211,10 +211,10 @@ Dame una base:  1
 Dame un exponente:  2
 La base 1 elevada al exponente 2 es 1
 ~~~
-## 4-trianguloPascal/v1
+## 4-trianguloPascal/v0
 
 ![](./images/trianguloPascal.png)
 
-## 5-expresiones
+## 5-expresiones/v0
 
 ![](./images/exprecion.png)
