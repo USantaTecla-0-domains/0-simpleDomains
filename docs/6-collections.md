@@ -263,6 +263,16 @@ Dame un valor (. para finalizar):  .
 En la serie no se encuentra el valor 13
 ~~~
 
+## 4-permutations
+
+### v.1
+![](./images/tablaColores.png)
+
+### v.2
+![](./images/v0.png)
+
+### v.2.1
+![](./images/v2.png)
 ## 6-timetable
 
 ### 6-timetable/v0
@@ -278,6 +288,8 @@ En la serie no se encuentra el valor 13
 ### 6-table/v2
 
 ![](./images/tableCss.png)
+
+
 ## 7-familyTree
 
 ### 7-familyTree/v0
