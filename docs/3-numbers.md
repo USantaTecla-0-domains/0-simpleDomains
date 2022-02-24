@@ -137,9 +137,33 @@ CCCCCC
 
 ### 7-perfect/v0
 ~~~
-Dame un número positivo:  12
-El número 1 es el 12º número perfecto
+Dame un número positivo:  28
+El número 28 si es perfecto
 ~~~
+
+~~~
+Dame un número positivo:  12
+El número 12 no es perfecto
+~~~
+
+### 7-perfect/v1
+~~~
+Dame una posición:  1
+El número 6 es el 1º número perfecto
+~~~
+~~~
+Dame una posición:  2
+El número 28 es el 2º número perfecto
+~~~
+~~~
+Dame una posición:  3
+El número 496 es el 3º número perfecto
+~~~
+~~~
+Dame una posición:  4
+El número 8128 es el 4º número perfecto
+~~~
+
 
 ## 8-friends
 
