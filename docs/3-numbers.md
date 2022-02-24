@@ -138,25 +138,7 @@ CCCCCC
 ### 7-perfect/v0
 ~~~
 Dame un número positivo:  12
-1
-2
-3
-4
-6
-16
-El número 12 no es perfecto
-~~~
-
-### 7-perfect/v1
-~~~
-Dame un número positivo:  12
 El número 1 es el 12º número perfecto
-~~~
-
-### 7-perfect/v2
-~~~
-Dame un número positivo:  12
-El número 12 no es perfecto
 ~~~
 
 ## 8-friends
