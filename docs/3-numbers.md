@@ -21,14 +21,14 @@ Dame un número:  76
 
 ### 1-integerDivision/v0
 ~~~
+Dame el dividendo:  21
+Dame el divisor:  4
+21 / 4 = 5 y sobran 1
+~~~
+~~~
 Dame el dividendo:  20
 Dame el divisor:  5
 20 / 5 = 4 y sobran 0
-~~~
-
-### 1-integerDivision/v1
-~~~
-**ESTA MAL*
 ~~~
 
 ## 2-percentage
@@ -41,17 +41,20 @@ Dame la cantidad:  1000
 21%  · 1000 = 210
 ~~~
 
-### 2-percentage/v1
-~~~
-***NO TIENE FIN***
-~~~
-
 ## 3-even
 
 ### 3-even/v0
 ~~~
 Escribe un número?  23
 El numero 23 es impar
+~~~
+~~~
+Escribe un número?  23
+El numero 2 es par
+~~~
+~~~
+Escribe un número?  0
+El numero 0 es par
 ~~~
 
 ## 4-absoluteValue
@@ -61,7 +64,10 @@ El numero 23 es impar
 Escribe un número?  76
 El valor absoluto del número 76 es 76
 ~~~
-
+~~~
+Escribe un número?  -67
+El valor absoluto del número -67 es 67
+~~~
 
 ## 5-changeCoins
 
@@ -221,13 +227,26 @@ El factorial de 5 es 120
 Dame una posición:  2
 El término de la serie de Fibonacci de 2 es 1
 ~~~
+~~~
+Dame una posición:  4
+El término de la serie de Fibonacci de 4 es 3
+~~~
+~~~
+Dame una posición:  5
+El término de la serie de Fibonacci de 5 es 5
+~~~
 ## 11-power
 
 ### 11-power/v0
 ~~~
-Dame una base:  1
+Dame una base:  10
 Dame un exponente:  2
-La base 1 elevada al exponente 2 es 1
+La base 10 elevada al exponente 2 es 100
+~~~
+~~~
+Dame una base:  2
+Dame un exponente:  4
+La base 2 elevada al exponente 4 es 16
 ~~~
 ## 4-trianguloPascal/v0
 
