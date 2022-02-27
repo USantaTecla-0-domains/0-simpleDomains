@@ -1,9 +1,0 @@
-# integers
-Universo Santa Tecla  
-[uSantaTecla@gmail.com](mailto:uSantaTecla@gmail.com) 
-
-[(atrás)](../README.md)
-
-
-### [printTripleEcho](./printTripleEcho.md)
-
