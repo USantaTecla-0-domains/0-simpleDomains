@@ -21,14 +21,14 @@ Dame un número:  76
 
 ### 1-integerDivision/v0
 ~~~
+Dame el dividendo:  21
+Dame el divisor:  4
+21 / 4 = 5 y sobran 1
+~~~
+~~~
 Dame el dividendo:  20
 Dame el divisor:  5
 20 / 5 = 4 y sobran 0
-~~~
-
-### 1-integerDivision/v1
-~~~
-**ESTA MAL*
 ~~~
 
 ## 2-percentage
@@ -41,17 +41,20 @@ Dame la cantidad:  1000
 21%  · 1000 = 210
 ~~~
 
-### 2-percentage/v1
-~~~
-***NO TIENE FIN***
-~~~
-
 ## 3-even
 
 ### 3-even/v0
 ~~~
 Escribe un número?  23
 El numero 23 es impar
+~~~
+~~~
+Escribe un número?  23
+El numero 2 es par
+~~~
+~~~
+Escribe un número?  0
+El numero 0 es par
 ~~~
 
 ## 4-absoluteValue
@@ -61,7 +64,10 @@ El numero 23 es impar
 Escribe un número?  76
 El valor absoluto del número 76 es 76
 ~~~
-
+~~~
+Escribe un número?  -67
+El valor absoluto del número -67 es 67
+~~~
 
 ## 5-changeCoins
 
@@ -137,27 +143,33 @@ CCCCCC
 
 ### 7-perfect/v0
 ~~~
+Dame un número positivo:  28
+El número 28 si es perfecto
+~~~
+
+~~~
 Dame un número positivo:  12
-1
-2
-3
-4
-6
-16
 El número 12 no es perfecto
 ~~~
 
 ### 7-perfect/v1
 ~~~
-Dame un número positivo:  12
-El número 1 es el 12º número perfecto
+Dame una posición:  1
+El número 6 es el 1º número perfecto
+~~~
+~~~
+Dame una posición:  2
+El número 28 es el 2º número perfecto
+~~~
+~~~
+Dame una posición:  3
+El número 496 es el 3º número perfecto
+~~~
+~~~
+Dame una posición:  4
+El número 8128 es el 4º número perfecto
 ~~~
 
-### 7-perfect/v2
-~~~
-Dame un número positivo:  12
-El número 12 no es perfecto
-~~~
 
 ## 8-friends
 
@@ -196,6 +208,18 @@ Los números 6368 y 6232 son amigos
 Dame un número (0-20):  0
 El factorial de 0 es 1
 ~~~
+~~~
+Dame un número (0-20):  1
+El factorial de 1 es 1
+~~~
+~~~
+Dame un número (0-20):  4
+El factorial de 4 es 24
+~~~
+~~~
+Dame un número (0-20):  5
+El factorial de 5 es 120
+~~~
 ## 10-fibonacci
 
 ### 10-fibonacci/v0
@@ -203,13 +227,26 @@ El factorial de 0 es 1
 Dame una posición:  2
 El término de la serie de Fibonacci de 2 es 1
 ~~~
+~~~
+Dame una posición:  4
+El término de la serie de Fibonacci de 4 es 3
+~~~
+~~~
+Dame una posición:  5
+El término de la serie de Fibonacci de 5 es 5
+~~~
 ## 11-power
 
 ### 11-power/v0
 ~~~
-Dame una base:  1
+Dame una base:  10
 Dame un exponente:  2
-La base 1 elevada al exponente 2 es 1
+La base 10 elevada al exponente 2 es 100
+~~~
+~~~
+Dame una base:  2
+Dame un exponente:  4
+La base 2 elevada al exponente 4 es 16
 ~~~
 ## 4-trianguloPascal/v0
 
