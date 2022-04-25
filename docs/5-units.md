@@ -2,6 +2,91 @@
 
 ## 0-fraction
 
+### 0-fraction/0-inverse
+~~~
+Introduce el numerador de la fracción: 2
+Introduce el denominador de la fracción: 3
+
+La fracción 2/3 invertida será la fracción 3/2
+~~~
+
+### 0-fraction/1-power
+~~~
+Introduce el numerador de la fracción: 2
+Introduce el denominador de la fracción: 3
+Introduce un exponente: 4
+
+La fracción 2/3 elevado a 4 será la fracción 16/81
+~~~
+
+~~~
+Introduce el numerador de la fracción: 2
+Introduce el denominador de la fracción: 3
+Introduce un exponente: 0
+
+La fracción 2/3 elevado a 4 será la fracción 1/1
+~~~
+
+### 0-fraction/2-add/v0
+~~~
+Primera fracción:
+Introduce el numerador de la fracción: 2
+Introduce el denominador de la fracción: 3
+Segunda fracción:
+Introduce el numerador de la fracción: 3
+Introduce el denominador de la fracción: 4
+
+La suma de la fracción 2/3 y la fracción 3/4 será la fracción 6/12
+~~~
+
+### 0-fraction/2-add/v1
+~~~
+Primera fracción:
+Introduce el numerador de la fracción: 2
+Introduce el denominador de la fracción: 3
+Segunda fracción:
+Introduce el numerador de la fracción: 3
+Introduce el denominador de la fracción: 4
+
+La suma de la fracción 2/3 y la fracción 3/4 será la fracción 17/12
+~~~
+
+### 0-fraction/3-substract/v0
+~~~
+Primera fracción:
+Introduce el numerador de la fracción: 2
+Introduce el denominador de la fracción: 3
+Segunda fracción:
+Introduce el numerador de la fracción: 3
+Introduce el denominador de la fracción: 4
+
+La suma de la fracción 2/3 y la fracción 3/4 será la fracción -1/12
+~~~
+
+### 0-fraction/4-multiply/v0
+~~~
+Primera fracción:
+Introduce el numerador de la fracción: 2
+Introduce el denominador de la fracción: 3
+Segunda fracción:
+Introduce el numerador de la fracción: 3
+Introduce el denominador de la fracción: 4
+
+La suma de la fracción 2/3 y la fracción 3/4 será la fracción 6/12
+~~~
+
+### 0-fraction/5-divide/v0
+~~~
+Primera fracción:
+Introduce el numerador de la fracción: 2
+Introduce el denominador de la fracción: 3
+Segunda fracción:
+Introduce el numerador de la fracción: 3
+Introduce el denominador de la fracción: 4
+
+La suma de la fracción 2/3 y la fracción 3/4 será la fracción 8/9
+~~~
+
 ### 0-fraction/v0
 ~~~
 Dame el numerador:  2
@@ -23,8 +108,336 @@ Suma sin (2/4): (7/6)
 Producto sin (2/4): (1/3)
 ~~~
 
-
 ## 1-interval
+
+### 1-interval/0-length
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 9
+
+La longitud del intervalo [4, 9] es 5
+~~~
+
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 4
+
+La longitud del intervalo [4, 4] es 0
+~~~
+
+### 1-interval/1-includes
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 9
+Introduce un punto: 2
+
+El intervalo [4, 9] no incluye el punto 2
+~~~
+
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 9
+Introduce un punto: 5
+
+El intervalo [4, 9] si incluye el punto 5
+~~~
+
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 9
+Introduce un punto: 9
+
+El intervalo [4, 9] si incluye el punto 9
+~~~
+
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 9
+Introduce un punto: 12
+
+El intervalo [4, 9] no incluye el punto 12
+~~~
+
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 4
+Introduce un punto: 4
+
+El intervalo [4, 4] si incluye el punto 4
+~~~
+
+### 1-interval/2-scale
+
+* Se mantiene el centro del intervalo dado
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Introduce un factor de escala positivo: 2
+
+El intervalo [4, 10] con factor de escala 2 será el intervalo [1, 13]
+~~~
+
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Introduce un factor de escala positivo: 0.5
+
+El intervalo [4, 10] con factor de escala 0.5 será el intervalo [5.5, 8.5]
+~~~
+
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Introduce un factor de escala positivo: 0
+
+El intervalo [4, 10] con factor de escala 2 será el intervalo [7, 7]
+~~~
+
+### 1-interval/3-shifted
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Introduce un factor de desplazamiento: 1
+
+El intervalo [4, 10] con factor de desplazamiento 1 será el intervalo [5, 11]
+~~~
+
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Introduce un factor de desplazamiento: -4
+
+El intervalo [4, 10] con factor de desplazamiento -4 será el intervalo [0, 6]
+~~~
+
+### 1-interval/4-split
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Introduce una cantidad positiva de intervalos: 3
+
+El intervalo [4, 10] dividido en 3 intervalos serán: [4, 6], [6, 8] y [8, 10]
+~~~
+
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Introduce una cantidad positiva de intervalos: 2
+
+El intervalo [4, 10] dividido en 2 intervalos serán: [4, 7] y [7, 10]
+~~~
+
+### 1-interval/5-symetric
+~~~
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+
+El intervalo [4, 10] simétrico al origen será: [-10, -4]
+~~~
+
+~~~
+Introduce el mínimo del intervalo: -4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+
+El intervalo [4, 10] simétrico al origen será: [-10, 4]
+~~~
+
+~~~
+Introduce el mínimo del intervalo: -4
+Introduce el máximo del intervalo (superior o igual al mínimo): -10
+
+El intervalo [4, 10] simétrico al origen será: [4, 10]
+~~~
+
+### 1-interval/6-intersected
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: -3
+Introduce el máximo del intervalo (superior o igual al mínimo): 3
+
+El intervalo [4, 10] no intersecta con el intervalo [-3, 3]
+~~~
+
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: -3
+Introduce el máximo del intervalo (superior o igual al mínimo): 4
+
+El intervalo [4, 10] si intersecta con el intervalo [-3, 4]
+~~~
+
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: -3
+Introduce el máximo del intervalo (superior o igual al mínimo): 8
+
+El intervalo [4, 10] si intersecta con el intervalo [-3, 8]
+~~~
+
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: 5
+Introduce el máximo del intervalo (superior o igual al mínimo): 8
+
+El intervalo [4, 10] si intersecta con el intervalo [5, 8]
+~~~
+
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: 5
+Introduce el máximo del intervalo (superior o igual al mínimo): 12
+
+El intervalo [4, 10] si intersecta con el intervalo [5, 12]
+~~~
+
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: 11
+Introduce el máximo del intervalo (superior o igual al mínimo): 12
+
+El intervalo [4, 10] no intersecta con el intervalo [11, 12]
+~~~
+
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: 0
+Introduce el máximo del intervalo (superior o igual al mínimo): 100
+
+El intervalo [4, 10] si intersecta con el intervalo [0, 100]
+~~~
+
+### 1-interval/7-intersection
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: -3
+Introduce el máximo del intervalo (superior o igual al mínimo): 4
+
+El intervalo [4, 10] intersección con el intervalo [-3, 4] será el intervalo [4, 4]
+~~~
+
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: -3
+Introduce el máximo del intervalo (superior o igual al mínimo): 8
+
+El intervalo [4, 10] intersección con el intervalo [-3, 8] será el intervalo [4, 8]
+~~~
+
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: 5
+Introduce el máximo del intervalo (superior o igual al mínimo): 8
+
+El intervalo [4, 10] intersección con el intervalo [5, 8] será el intervalo [5, 8]
+~~~
+
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: 5
+Introduce el máximo del intervalo (superior o igual al mínimo): 12
+
+El intervalo [4, 10] intersección con el intervalo [5, 12] será el intervalo [5, 10]
+~~~
+
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: 0
+Introduce el máximo del intervalo (superior o igual al mínimo): 100
+
+El intervalo [4, 10] intersección con el intervalo [0, 100] será el intervalo [4, 10]
+~~~
+
+### 1-interval/8-union
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: -3
+Introduce el máximo del intervalo (superior o igual al mínimo): 4
+
+El intervalo [4, 10] intersección con el intervalo [-3, 4] será el intervalo [-3, 10]
+~~~
+
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: -3
+Introduce el máximo del intervalo (superior o igual al mínimo): 8
+
+El intervalo [4, 10] intersección con el intervalo [-3, 8] será el intervalo [-3, 10]
+~~~
+
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: 5
+Introduce el máximo del intervalo (superior o igual al mínimo): 8
+
+El intervalo [4, 10] intersección con el intervalo [5, 8] será el intervalo [4, 10]
+~~~
+
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: 5
+Introduce el máximo del intervalo (superior o igual al mínimo): 12
+
+El intervalo [4, 10] intersección con el intervalo [5, 12] será el intervalo [4, 12]
+~~~
+
+~~~
+Primer intervalo:
+Introduce el mínimo del intervalo: 4
+Introduce el máximo del intervalo (superior o igual al mínimo): 10
+Segundo intervalo:
+Introduce el mínimo del intervalo: 0
+Introduce el máximo del intervalo (superior o igual al mínimo): 100
+
+El intervalo [4, 10] intersección con el intervalo [0, 100] será el intervalo [0, 100]
+~~~
 
 ### 1-interval/v0
 ~~~
@@ -37,6 +450,236 @@ Desplazado inverso: -100,4
 ~~~
 
 ## 2-coordinate
+
+### 2-coordinate/0-onAxes
+~~~
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  2
+
+La coordenada (2, 2) no está en ningún eje
+~~~
+
+~~~
+Dame la abcisa de la coordenada:  0
+Dame la ordenada de la coordenada:  2
+
+La coordenada (0, 2) está en el eje de abcisas
+~~~
+
+~~~
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  0
+
+La coordenada (0, 2) está en el eje de ordenadas
+~~~
+
+~~~
+Dame la abcisa de la coordenada:  0
+Dame la ordenada de la coordenada:  0
+
+La coordenada (0, 2) está en el eje de abcisas y de ordenadas
+~~~
+
+### 2-coordinate/1-quadrant
+~~~
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  2
+
+La coordenada (2, 2) está en el 1º cuadrante.
+~~~
+
+~~~
+Dame la abcisa de la coordenada:  -2
+Dame la ordenada de la coordenada:  2
+
+La coordenada (-2, 2) está en el 2º cuadrante.
+~~~
+
+~~~
+Dame la abcisa de la coordenada:  -2
+Dame la ordenada de la coordenada:  -2
+
+La coordenada (-2, -2) está en el 3º cuadrante.
+~~~
+
+~~~
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  -2
+
+La coordenada (2, -2) está en el 4º cuadrante.
+~~~
+
+### 2-coordinate/2-isHorizontal
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  2
+Coordenada destino:
+Dame la abcisa de la coordenada:  3
+Dame la ordenada de la coordenada:  2
+
+La coordenada origen (2, 2) y la coordenada destino (3, 2) si es un movimiento horizontal 
+~~~
+
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  2
+Coordenada destino:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  3
+
+La coordenada origen (2, 2) y la coordenada destino (2, 3) no es un movimiento horizontal  
+~~~
+
+### 2-coordinate/2-isVertical
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  2
+Coordenada destino:
+Dame la abcisa de la coordenada:  3
+Dame la ordenada de la coordenada:  2
+
+La coordenada origen (2, 2) y la coordenada destino (3, 2) no es un movimiento vertical 
+~~~
+
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  2
+Coordenada destino:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  3
+
+La coordenada origen (2, 2) y la coordenada destino (2, 3) si es un movimiento vertical  
+~~~
+
+### 2-coordinate/2-isKingMovement
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  2
+Coordenada destino:
+Dame la abcisa de la coordenada:  3
+Dame la ordenada de la coordenada:  2
+
+La coordenada origen (2, 2) y la coordenada destino (3, 2) si es un movimiento del rey 
+~~~
+
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  2
+Coordenada destino:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  3
+
+La coordenada origen (2, 2) y la coordenada destino (2, 3) si es un movimiento del rey  
+~~~
+
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  2
+Coordenada destino:
+Dame la abcisa de la coordenada:  1
+Dame la ordenada de la coordenada:  3
+
+La coordenada origen (2, 2) y la coordenada destino (1, 3) no es un movimiento del rey  
+~~~
+
+### 2-coordinate/2-isQueenMovement
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  2
+Coordenada destino:
+Dame la abcisa de la coordenada:  3
+Dame la ordenada de la coordenada:  2
+
+La coordenada origen (2, 2) y la coordenada destino (3, 2) si es un movimiento de la reina 
+~~~
+
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  2
+Coordenada destino:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  3
+
+La coordenada origen (2, 2) y la coordenada destino (2, 3) si es un movimiento de la reina  
+~~~
+
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  2
+Coordenada destino:
+Dame la abcisa de la coordenada:  1
+Dame la ordenada de la coordenada:  3
+
+La coordenada origen (2, 2) y la coordenada destino (1, 3) si es un movimiento de la reina
+~~~
+
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  2
+Coordenada destino:
+Dame la abcisa de la coordenada:  4
+Dame la ordenada de la coordenada:  8
+
+La coordenada origen (2, 2) y la coordenada destino (4, 8) no es un movimiento de la reina
+~~~
+
+### 2-coordinate/2-isHorseMovement
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  1
+Dame la ordenada de la coordenada:  2
+Coordenada destino:
+Dame la abcisa de la coordenada:  3
+Dame la ordenada de la coordenada:  3
+
+La coordenada origen (1, 2) y la coordenada destino (3, 3) si es un movimiento del caballo 
+~~~
+
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  1
+Dame la ordenada de la coordenada:  2
+Coordenada destino:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  3
+
+La coordenada origen (2, 2) y la coordenada destino (2, 3) no es un movimiento del caballo  
+~~~
+
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  8
+Dame la ordenada de la coordenada:  1
+Coordenada destino:
+Dame la abcisa de la coordenada:  6
+Dame la ordenada de la coordenada:  2
+
+La coordenada origen (2, 2) y la coordenada destino (1, 3) si es un movimiento del caballo
+~~~
+
+~~~
+Coordenada origen:
+Dame la abcisa de la coordenada:  2
+Dame la ordenada de la coordenada:  2
+Coordenada destino:
+Dame la abcisa de la coordenada:  4
+Dame la ordenada de la coordenada:  4
+
+La coordenada origen (2, 2) y la coordenada destino (4, 8) si es un movimiento del caballo
+~~~
+
+
 
 ### 2-coordinate/v0
 ~~~
@@ -190,15 +833,6 @@ La coordinate (2,1) NO está en diagonal, en el 3 cuadrante
 La coordinate (1,1) SI está en diagonal, en el 3 cuadrante
 ~~~
 
-### 2-coordinate/v2
-~~~
-***ESTA MAL***
-~~~
-
-### 2-coordinate/v3
-~~~
-***ESTA MAL***
-~~~
 ### 2-coordinate/v4
 ~~~
 false
@@ -239,6 +873,4 @@ Escriba un mes (1-12):  1
 Escriba un año (1-...):  2022
 El día 29 del 1 de 2022 cae a mediados de invierno.
 ~~~
-
-
 
