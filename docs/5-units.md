@@ -974,6 +974,9 @@ El 20 del 3 de 1968 cae a ultimos invierno.
 ### 1-seasonWithPart
 
 ### 1-seasonWithPart/v0
+* Considerar todos los meses de 30 días
+* Las estaciones comienzan: invierno el 21/12; primavera el 21/3; verano el 21/6; otoño el 21/9
+* Considerar: "a primeros" los 30 primeros días de la estación; "a mediados" los siguientes 30 días de la estación; "a finales" los últimos 30 días de la estación  
 ~~~
 Escriba un día (1-30):  29
 Escriba un mes (1-12):  1
