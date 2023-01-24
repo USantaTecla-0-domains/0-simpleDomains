@@ -57,6 +57,16 @@ Escribe un número?  0
 El numero 0 es par
 ~~~
 
+### 4-validation/v.0
+~~~
+Dame un valor en el intervalo [1, 10]: 0
+Error!!! No está dentro del intervalo [1, 10] ! 8-o
+Dame un valor en el intervalo [1, 10]: 11
+Error!!! No está dentro del intervalo [1, 10] ! 8-o
+Dame un valor en el intervalo [1, 10]: 5
+Gracias!!! Has escogido el 5
+~~~
+
 ## 4-absoluteValue
 
 ### 4-absoluteValue/v0
