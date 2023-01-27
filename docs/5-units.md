@@ -254,83 +254,24 @@ Introduce el máximo del intervalo (superior o igual al mínimo): -4
 El intervalo [-10, -4] simétrico al origen es [4, 10]
 ~~~
 
-### 1-interval/6-intersected
+### 1-interval/6-isIntersected
 ~~~
-Primer intervalo:
-Introduce el mínimo del intervalo: 4
-Introduce el máximo del intervalo (superior o igual al mínimo): 10
-Segundo intervalo:
-Introduce el mínimo del intervalo: -3
-Introduce el máximo del intervalo (superior o igual al mínimo): 3
-
-El intervalo [4, 10] no intersecta con el intervalo [-3, 3]
+Dame el mínimo: 2
+Dame el máximo: 5
+Dame el mínimo: 3
+Dame el máximo: 6
+Sí existe intersección entre los intervalos [2.0, 5.0] y [3.0, 6.0]
 ~~~
 
 ~~~
-Primer intervalo:
-Introduce el mínimo del intervalo: 4
-Introduce el máximo del intervalo (superior o igual al mínimo): 10
-Segundo intervalo:
-Introduce el mínimo del intervalo: -3
-Introduce el máximo del intervalo (superior o igual al mínimo): 4
-
-El intervalo [4, 10] si intersecta con el intervalo [-3, 4]
+Dame el mínimo: 2
+Dame el máximo: 5
+Dame el mínimo: 6
+Dame el máximo: 9
+No existe intersección entre los intervalos [2.0, 5.0] y [6.0, 9.0]
 ~~~
 
-~~~
-Primer intervalo:
-Introduce el mínimo del intervalo: 4
-Introduce el máximo del intervalo (superior o igual al mínimo): 10
-Segundo intervalo:
-Introduce el mínimo del intervalo: -3
-Introduce el máximo del intervalo (superior o igual al mínimo): 8
 
-El intervalo [4, 10] si intersecta con el intervalo [-3, 8]
-~~~
-
-~~~
-Primer intervalo:
-Introduce el mínimo del intervalo: 4
-Introduce el máximo del intervalo (superior o igual al mínimo): 10
-Segundo intervalo:
-Introduce el mínimo del intervalo: 5
-Introduce el máximo del intervalo (superior o igual al mínimo): 8
-
-El intervalo [4, 10] si intersecta con el intervalo [5, 8]
-~~~
-
-~~~
-Primer intervalo:
-Introduce el mínimo del intervalo: 4
-Introduce el máximo del intervalo (superior o igual al mínimo): 10
-Segundo intervalo:
-Introduce el mínimo del intervalo: 5
-Introduce el máximo del intervalo (superior o igual al mínimo): 12
-
-El intervalo [4, 10] si intersecta con el intervalo [5, 12]
-~~~
-
-~~~
-Primer intervalo:
-Introduce el mínimo del intervalo: 4
-Introduce el máximo del intervalo (superior o igual al mínimo): 10
-Segundo intervalo:
-Introduce el mínimo del intervalo: 11
-Introduce el máximo del intervalo (superior o igual al mínimo): 12
-
-El intervalo [4, 10] no intersecta con el intervalo [11, 12]
-~~~
-
-~~~
-Primer intervalo:
-Introduce el mínimo del intervalo: 4
-Introduce el máximo del intervalo (superior o igual al mínimo): 10
-Segundo intervalo:
-Introduce el mínimo del intervalo: 0
-Introduce el máximo del intervalo (superior o igual al mínimo): 100
-
-El intervalo [4, 10] si intersecta con el intervalo [0, 100]
-~~~
 
 ### 1-interval/7-intersection
 ~~~
