@@ -215,20 +215,13 @@ El intervalo [4, 10] con factor de desplazamiento -4 es el intervalo [0, 6]
 ~~~
 
 ### 1-interval/4-split
-* Validando datos del usuario: mínimo menor o igual que el máximo
 ~~~
-Introduce el mínimo del intervalo: 4
-Introduce el máximo del intervalo (superior o igual al mínimo): -10
-Error!!! El máximo debe ser superior o igual al máximo
-Introduce el mínimo del intervalo: 4
-Introduce el máximo del intervalo (superior o igual al mínimo): 10
-Introduce una cantidad positiva de intervalos: -3
-Error!!! La cantidad debe ser positiva
-Introduce una cantidad positiva de intervalos: 0
-Error!!! La cantidad debe ser positiva
-Introduce una cantidad positiva de intervalos: 3
-
-El intervalo [4, 10] dividido en 3 intervalos son [4, 6], [6, 8] y [8, 10]
+Dame el mínimo: 2
+Dame el máximo: 9
+Dame el número de partes: 3
+[2.0, 4.333333]
+[4.333333, 6.666666]
+[6.666666, 8.999999]
 ~~~
 
 ~~~
